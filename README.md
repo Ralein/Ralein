@@ -45,7 +45,7 @@ I combine technical skill with artistic flair to build modern, responsive, and u
 
 🤖 [**Norel**](https://norel-ralein.vercel.app/) – *AI-powered, paperless identity sharing system using NFC/QR for tap-to-fill forms. Enables secure, offline-capable form automation in public services.*
 
-💠[**Novira-Ai](https://novira-ai.vercel.app/) - *Helps to convert wireframes into code and provides a visual representation of the design*
+💠[**Novira-Ai**](https://novira-ai.vercel.app/) - *Helps to convert wireframes into code and provides a visual representation of the design*
 
 These projects reflect my passion for building **inclusive, human-centric technology** that makes a difference.
 
