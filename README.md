@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Ralein Nova**
 
-🎨 Frontend Developer | 🧠 UI/UX Designer | ⚙️ MERN Stack Enthusiast  
+🎨 Frontend Developer | 🧠 UI/UX Designer | ⚙️ Next.js Enthusiast  
 📍 Based in India | 💻 Building ideas into products  
 
 ---
@@ -51,8 +51,6 @@ These projects reflect my passion for building **inclusive, human-centric techno
 - 📧 [raleinnova@gmail.com](mailto:raleinnova@gmail.com)
 - 🌐 [Portfolio](https://github.com/Ralein/Portfolio-)
 
-> _"Design is intelligence made visible. Code brings it to life."_  
-> — Ralein Nova
 
 ---
 
