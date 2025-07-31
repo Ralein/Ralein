@@ -41,15 +41,17 @@ I combine technical skill with artistic flair to build modern, responsive, and u
 
 ## 🌍 Accessible Web Experiences
 
-🧠 [**Norel**](https://norel-ralein.vercel.app) – *An inclusive learning platform for the deaf, blind, and mute community using Morse code, visuals, and vibrations.*
+🧠 [**Viola**](https://viola-app-ralein.vercel.app) – *An inclusive learning platform for the deaf, blind, and mute community using Morse code, visuals, and vibrations.*
 
-🤖 [**Viola**](https://viola-app-ralein.vercel.app) – *AI-powered tool bridging communication barriers through speech recognition and text-to-sign animations.*
+🤖 [**Norel**](https://norel-ralein.vercel.app/) – *AI-powered, paperless identity sharing system using NFC/QR for tap-to-fill forms. Enables secure, offline-capable form automation in public services.*
+
+💠[**Novira-Ai](https://novira-ai.vercel.app/) - *Helps to convert wireframes into code and provides a visual representation of the design*
 
 These projects reflect my passion for building **inclusive, human-centric technology** that makes a difference.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ralein-nova-r-l-30170b227/)
 - 📧 [raleinnova@gmail.com](mailto:raleinnova@gmail.com)
-- 🌐 [Portfolio](https://github.com/Ralein/Portfolio-)
+- 🌐 [Portfolio](https://ralein.vercel.app/)
 
 
 ---
