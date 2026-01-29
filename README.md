@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Ralein Nova**
 
-🎨 Frontend Developer | 🧠 UI/UX Designer | ⚙️ Next.js Enthusiast  
+🎨 Fullstack Developer | 🧠 UI/UX Designer | ⚙️ Next.js Enthusiast  
 📍 Based in India | 💻 Building ideas into products  
 
 ---
