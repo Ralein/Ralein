@@ -1,283 +1,394 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ralein%20Nova&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Dev%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Builder&descAlignY=58&descAlign=50&descColor=a78bfa" />
+<!-- ░░░ ANIMATED HEADER BANNER ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d0221,60:130428,100:1a0533&height=280&section=header&text=RALEIN%20NOVA&fontSize=80&fontColor=d4b4fe&animation=twinkling&fontAlignY=45&desc=Fullstack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Engineer&descAlignY=65&descSize=18&descColor=9d7fe0&stroke=6d28d9&strokeWidth=2" />
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ralein+Nova+%F0%9F%91%8B;Fullstack+Developer+%7C+UI%2FUX+Designer;Next.js+%7C+MERN+Stack+%7C+AI+Tools;Building+Ideas+Into+Digital+Products;Crafting+Inclusive+%26+Human-Centric+Tech" alt="Typing SVG" />
-</a>
-
+<!-- ░░░ DYNAMIC TYPING ░░░ -->
 <br/>
-
-<!-- BADGES -->
-<a href="https://ralein.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%230f0c29.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=302b63"/>
-</a>
-<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:raleinnova@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Ralein">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%9A%80+Building+ideas+into+digital+products;%F0%9F%A7%A0+AI+%2B+Web+%2B+Design+%3D+My+Stack;%F0%9F%8C%8D+Crafting+inclusive+tech+for+everyone;%E2%9A%A1+Next.js+%7C+MERN+%7C+Spring+Boot+%7C+AI+Tools;%F0%9F%8E%A8+Where+code+meets+creativity;%F0%9F%94%A5+50%2B+Repos+%7C+8%2B+Live+Products+%7C+India" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ralein&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=FOLLOWERS)
+<!-- ░░░ SOCIAL BADGES ░░░ -->
+<a href="https://ralein.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-ralein.vercel.app-6d28d9?style=for-the-badge&labelColor=0d0221&color=6d28d9"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/></a>
+&nbsp;
+<a href="mailto:raleinnova@gmail.com"><img src="https://img.shields.io/badge/Gmail-raleinnova%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221"/></a>
+&nbsp;
+<a href="tel:+918903541901"><img src="https://img.shields.io/badge/Phone-%2B91_8903541901-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0221"/></a>
+
+<br/><br/>
+
+<!-- ░░░ DYNAMIC COUNTERS ░░░ -->
+<img src="https://komarev.com/ghpvc/?username=Ralein&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS&labelColor=0d0221"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=a78bfa&labelColor=0d0221&label=FOLLOWERS"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-%E2%9C%85%20Available-00c951?style=for-the-badge&labelColor=0d0221"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🧬 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```ts
-const ralein = {
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;`whoami`
+
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
+```typescript
+const ralein: Developer = {
   name        : "Ralein Nova",
-  role        : ["Fullstack Developer", "UI/UX Designer", "AI Builder"],
-  location    : "Coimbatore, India 🇮🇳",
-  education   : "M.Tech Computer Science @ SKCET (2021–2026)",
-  currentWork : ["Bluekode Technologies 🔵", "Virtusa ⚡"],
-  passion     : ["Inclusive Design", "AI-Enhanced Tools", "Human-Centric UX"],
-  funFact     : "I debug with music 🎧 and design with coffee ☕",
-  available   : true,  // Open to opportunities!
+  title       : ["Fullstack Dev", "UI/UX Designer", "AI Builder"],
+  location    : "Coimbatore, India 📍",
+  education   : "M.Tech CS @ SKCET | CGPA: 7.9",
+  design      : "Advanced Digital Media @ MAAC",
+
+  currentRoles: [
+    "⚡ Software Dev Intern @ Virtusa",
+    "🔵 Fullstack Intern @ Bluekode Technologies",
+  ],
+
+  stack: {
+    frontend  : ["React", "Next.js", "TypeScript", "Tailwind", "Framer"],
+    backend   : ["Node.js", "Express", "Spring Boot", "PHP", "Python"],
+    databases : ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+    ai        : ["LangChain", "Ollama", "OpenAI API", "Streamlit"],
+    design    : ["Figma", "Photoshop", "Illustrator", "InDesign", "Blender"],
+    devops    : ["Vercel", "Docker", "Git", "GitHub Actions"],
+  },
+
+  currentlyBuilding : "AI-powered, human-centric web experiences 🚀",
+  superpower        : "Turning wireframes into live products at warp speed ⚡",
+  openTo            : "Freelance · Internships · Collabs · Full-time",
+  funFact           : "I debug with lo-fi beats 🎧 and ship at 2AM ☕",
 };
 ```
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Ralein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa" />
-
-- 🎓 M.Tech CS student, passionate about building **real-world products**
-- 💼 Interning at **Virtusa** (React + Spring Boot) & **Bluekode Technologies** (MERN)
-- 🤖 Deep diving into **LLMs, Langchain, Ollama** and AI-powered workflows
-- ♿ Obsessed with **accessible, inclusive design** — technology for *everyone*
-- 🎨 Dual background in **CS + Digital Media Design** (MAAC Institute)
-- 📦 **50+ Repositories** | **8+ Live Projects** on Vercel
-- ✉️ Reach me: [raleinnova@gmail.com](mailto:raleinnova@gmail.com)
-
 <br clear="right"/>
+
+<br/>
+
+<div align="center">
+
+| 🗂️ Repositories | 🌐 Live Products | 💼 Internships | 🎓 Dual Degree | 🏙️ Location |
+|:---:|:---:|:---:|:---:|:---:|
+| **50+** | **8+** | **4 Companies** | **CS + Design** | **India 🇮🇳** |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## ⚡ Tech Universe
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Tech Universe
 
-> *I don't limit myself — I work across the entire stack.*
+> *I don't limit myself — I work across the entire stack, from pixels to servers to neural networks.*
 
-### 🎨 Frontend & Design
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=black"/>
+<br/>
+
+### 🎨 Frontend & UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,vite&perline=10&theme=dark"/>
 </p>
 
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+### ⚙️ Backend & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,python,graphql,fastapi&perline=10&theme=dark"/>
 </p>
 
 ### 🗄️ Databases & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,vercel,docker,aws&perline=10&theme=dark"/>
 </p>
 
-### 🤖 AI / ML & Tools
-<p>
-  <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black"/>
+### 🤖 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=10&theme=dark"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="48"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="48"/>
 </p>
 
 ### 🎭 Design & Creative
-<p>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/InDesign-%23FF3366.svg?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
-  <img src="https://img.shields.io/badge/After_Effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,ae,pr&perline=10&theme=dark"/>
 </p>
 
----
+### 🛠️ DevOps & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,postman,npm&perline=10&theme=dark"/>
+</p>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🔗 Project | 💡 What It Does | 🛠 Stack | 🌐 |
-|:---|:---|:---|:---:|
-| **[🧠 Novira AI](https://novira-ai.vercel.app/)** | Converts wireframes → production code with visual AI | Next.js · AI · Vision | [Live ↗](https://novira-ai.vercel.app/) |
-| **[🤖 Norel](https://norel-ralein.vercel.app/)** | AI-powered NFC/QR identity system — paperless form automation | Next.js · NFC · QR · PWA | [Live ↗](https://norel-ralein.vercel.app/) |
-| **[🌍 Miralen](https://viola-app-ralein.vercel.app)** | Inclusive learning platform — Morse code, visuals & vibrations for all | React · Accessibility · Web APIs | [Live ↗](https://viola-app-ralein.vercel.app) |
-| **[🎮 Mood Maze](https://mood-maze-ralein.vercel.app)** | Escape the maze with mood-matching puzzle logic | React · Game Logic · Vercel | [Live ↗](https://mood-maze-ralein.vercel.app) |
-| **[📊 Resume Analyzer](https://github.com/Ralein/resume-analyzer)** | AI model that reads, evaluates & scores resumes | Next.js · AI · PDF Parsing | [GitHub ↗](https://github.com/Ralein/resume-analyzer) |
-| **[🧩 Formcraft AI](https://github.com/Ralein/formcraft-ai)** | Auto-generates smart forms from natural language prompts | React · AI · Dynamic UI | [GitHub ↗](https://github.com/Ralein/formcraft-ai) |
-| **[📆 FocusFlow](https://github.com/Ralein/focusflow-erasor)** | Productivity app with dynamic task views & state management | React · Zustand · Tailwind | [GitHub ↗](https://github.com/Ralein/focusflow-erasor) |
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ralein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralein&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
 
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ralein&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff"/>
+<div align="center">
 
-<br/>
+<a href="https://novira-ai.vercel.app/">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=novira-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/Ralein/resume-analyzer">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=resume-analyzer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+</a>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ralein&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&area_color=302b63"/>
+<a href="https://github.com/Ralein/formcraft-ai">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=formcraft-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/Ralein/focusflow-erasor">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=focusflow-erasor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+</a>
 
 </div>
 
+<br/>
+
+### 🌟 All Projects at a Glance
+
+| ✦ | Project | What It Does | Stack | Status |
+|:---:|:---|:---|:---|:---:|
+| 💠 | [**Novira AI**](https://novira-ai.vercel.app/) | Converts wireframes → production-ready code with AI vision | Next.js · AI · Vision API | 🟢 Live |
+| 🤖 | [**Norel**](https://norel-ralein.vercel.app/) | NFC/QR-based AI identity sharing — zero paper, offline-ready | Next.js · PWA · NFC · QR | 🟢 Live |
+| 🌍 | [**Miralen**](https://viola-app-ralein.vercel.app) | Inclusive learning via Morse code, visuals & vibrations for deaf/blind/mute users | React · Web APIs · A11y | 🟢 Live |
+| 🎮 | [**Mood Maze**](https://mood-maze-ralein.vercel.app) | Escape a maze using mood-matching puzzle logic | React · Game Engine · CSS | 🟢 Live |
+| 📊 | [**Resume Analyzer**](https://github.com/Ralein/resume-analyzer) | AI that reads, evaluates & scores resumes with detailed feedback | Next.js · AI · PDF Parser | 🔨 Dev |
+| 🧩 | [**Formcraft AI**](https://github.com/Ralein/formcraft-ai) | Auto-generates smart, dynamic forms from natural language prompts | React · OpenAI · Tailwind | 🔨 Dev |
+| 📆 | [**FocusFlow**](https://github.com/Ralein/focusflow-erasor) | Productivity app — notes, tasks, dynamic views & state management | React · Zustand · Tailwind | 🔨 Dev |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Work Experience
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        CAREER TIMELINE — RALEIN NOVA                       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  ⚡ VIRTUSA                               Aug 2025 — Present                ║
+║     Software Developer Intern                                                ║
+║     → React · Spring Boot · SQL                                              ║
+║     → Charge Management System (1,000+ records, 20% faster responses)       ║
+║                                                                              ║
+║  🔵 BLUEKODE TECHNOLOGIES                 Jun 2025 — Present                ║
+║     Full Stack Developer Intern                                              ║
+║     → MERN Stack · RESTful APIs · Scalable Architectures                    ║
+║                                                                              ║
+║  🏭 PRICOL PVT. LTD., COIMBATORE         May 2025                          ║
+║     Full Stack Developer Intern                                              ║
+║     → AI Ticket Similarity Analyzer (Python · Streamlit · 85% accuracy)    ║
+║     → 5+ Next.js Dashboards · Mobile-Responsive UI Overhaul                 ║
+║                                                                              ║
+║  🔧 GRACE LASER JET TECHNOLOGIES         May 2024                          ║
+║     Hardware Technical Intern                                                ║
+║     → PC Assembly · BIOS Optimization · Hardware Troubleshooting            ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="28"> &nbsp;Education
+
+<br/>
+
+```
+🎓  Sri Krishna College of Engineering & Technology   2021 – 2026
+    M.Tech in Computer Science & Engineering (Integrated)
+    Anna University Affiliated · CGPA: 7.9
+
+🎨  MAAC Institute                                    2023 – 2025
+    Advanced Program in Digital Media & Design
+    Motion Graphics · 2D Animation · Digital Media Production
+
+📚  PSG Public School                                 2020 – 2021
+    Higher Secondary (XII) — CBSE · 93%
+
+📚  PSG Public School                                 2018 – 2019
+    Secondary (X) — CBSE · 89%
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<br/>
+
+<div align="center">
+
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Ralein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=6d28d9&count_private=true&include_all_commits=true"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralein&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10&count_private=true"/>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ralein&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=6d28d9&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&sideNums=ffffff&currStreakNum=ffffff"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ralein&bg_color=0d1117&color=a78bfa&line=6d28d9&point=a78bfa&area=true&hide_border=true&area_color=6d28d920&custom_title=Ralein's%20Contribution%20Graph"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ralein/Ralein/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Ralein/Ralein/output/github-snake-dark.svg" width="95%"/>
   </picture>
 </div>
 
-> **Note:** To enable the snake animation, add a [GitHub Action](https://github.com/Platane/snk) to your profile repo named `Ralein` to auto-generate the SVG.
+> 💡 **To activate:** Create a repo named `Ralein` → Add [Platane/snk](https://github.com/Platane/snk) GitHub Action → It auto-generates the snake SVG on a daily schedule.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 💼 Experience Timeline
+## <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="28"> &nbsp;Currently Exploring
 
-```
-🔵 Bluekode Technologies    — Full Stack Developer Intern       (Jun 2025 – Present)
-   └─ MERN Stack · REST APIs · Scalable Codebases
-
-⚡ Virtusa                  — Software Developer Intern         (Aug 2025 – Present)
-   └─ React · Spring Boot · SQL · Charge Management System (1000+ records, -20% response time)
-
-🏭 Pricol Pvt. Ltd.         — Full Stack Developer Intern       (May 2025)
-   └─ AI Ticket Similarity Analyzer (85% accuracy) · 5+ Dashboards in Next.js
-
-🔧 Grace Laser Jet Tech     — Hardware Technical Intern         (May 2024)
-   └─ PC Assembly · BIOS Optimization · Hardware Troubleshooting
-```
-
----
-
-## 🎯 Currently Exploring
+<br/>
 
 <div align="center">
 
 ```
-🧠  LLMs + Langchain + Ollama       →  AI-Enhanced Dev Tools
-🌐  MERN Stack Mastery              →  Full Production-Grade Apps
-♿  Accessible & Inclusive Design   →  Technology for Everyone
-📱  NFC + PWA + Offline-First       →  Next-Gen Web Experiences
-🎨  Motion Design + Framer          →  Immersive UI/UX
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │                     🔭  WHAT'S ON MY RADAR                         │
+ ├─────────────────────────────────────────────────────────────────────┤
+ │                                                                     │
+ │  🤖  LLMs + LangChain + Ollama  →  Local AI-powered dev tools      │
+ │  🌐  MERN Stack (Production-grade)  →  Full end-to-end apps        │
+ │  ♿  Accessible & Inclusive Design  →  Tech for everyone            │
+ │  📱  NFC + PWA + Offline-First  →  Next-gen web interactions       │
+ │  🎨  Framer Motion + GSAP  →  Cinematic UI/UX experiences          │
+ │  ☁️  Cloud Architecture (AWS/GCP)  →  Scalable deployments         │
+ │  🔐  Auth Systems + Security  →  JWT, OAuth, Zero-Trust patterns   │
+ │                                                                     │
+ └─────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🌌 My Cosmic Dev Universe
+## ⏱️ &nbsp;Coding Activity
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:03001C,60:0B0C2A,100:1a0533&height=4"/>
-
-</div>
-
+<!--START_SECTION:waka-->
+```text
+💡 Connect WakaTime at wakatime.com and add the WakaTime GitHub Action
+   to auto-populate your real weekly coding stats here automatically.
 ```
- ·  ✦       ·    ✦   ·         ·      ✦         *      ·       ✦    *
-        *          ·       *        ✦      ·          ✦          ·
-  ·  ✦     *                  ·   ┌─────────────────────────────────┐   ·   *
-                    ·          *  │   ☀  RALEIN'S SOLAR SYSTEM  ☀   │ ✦
- *     ✦       ·                  └─────────────────────────────────┘          ·
-  ·        *       ✦     ·              *           ·       *       ✦
-
-            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-     .  .  .        ──────────────────────────────────────────  .  .  .
-     .             |  ☿  Mercury  |  HTML · CSS · Tailwind      |   0.4 AU  |
-     .  .  .        ──────────────────────────────────────────  .  .  .
-     .             |  ♀  Venus    |  React · Next.js · Framer   |   0.7 AU  |
-     .  .  .        ──────────────────────────────────────────  .  .  .
-     .             |  🌍 Earth    |  Node.js · Express · APIs   |   1.0 AU  |
-     .  .  .        ──────────────────────────────────────────  .  .  .
-  ✦  .             |  ♂  Mars     |  MongoDB · MySQL · Firebase  |   1.5 AU  |
-     .  .  .        ──────────────────────────────────────────  .  .  .
-     .             |  ♃  Jupiter  |  AI · LangChain · Ollama    |   5.2 AU  |
-     .  .  .        ──────────────────────────────────────────  .  .  .
-     .             |  ♄  Saturn   |  Java · Spring Boot · PHP   |   9.5 AU  |
-     .  .  .        ──────────────────────────────────────────  .  .  .
-     .             |  ⛢  Uranus   |  Figma · PS · Illustrator   |  19.8 AU  |
-     .  .  .        ──────────────────────────────────────────  .  .  .
-     .             |  ♆  Neptune  |  Docker · Vercel · DevOps   |  30.1 AU  |
-     .  .  .        ──────────────────────────────────────────  .  .  .
-            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-
-                  ✦    ·    *         ☀  Core Star: JavaScript + TypeScript
- *       ·    ✦             *    ·          Fusing creativity & logic since 2021
-    ·         *    ✦    ·        *     ✦              Coimbatore → Universe 🚀
-```
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,30:0B0C2A,60:03001C,100:000000&height=4"/>
+<!--END_SECTION:waka-->
 
 </div>
 
 ---
 
-## 🌐 Let's Connect & Build Together
+## 📊 &nbsp;Skill Proficiency
+
+<br/>
+
+```
+Frontend Development    ████████████████████░   95%  ⭐ Primary Strength
+UI/UX Design            ███████████████████░░   90%  🎨 Dual Education
+Backend Development     ██████████████████░░░   88%  ⚙️ Production Ready
+AI / ML Integration     █████████████████░░░░   82%  🤖 Actively Growing
+Database Design         ████████████████░░░░░   80%  🗄️ RDBMS + NoSQL
+DevOps & Cloud          █████████████░░░░░░░░   65%  ☁️ Expanding
+Motion & 3D Design      ████████████░░░░░░░░░   60%  🎬 MAAC Certified
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect & Build Together
+
+<br/>
 
 <div align="center">
 
 <a href="https://ralein.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-a78bfa?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-ralein.vercel.app-6d28d9?style=for-the-badge&labelColor=0d1117"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
+&nbsp;
 <a href="mailto:raleinnova@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
+
+<br/><br/>
+
+<a href="https://novira-ai.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/💠_Novira_AI-Wireframe_→_Code-a78bfa?style=for-the-badge&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://norel-ralein.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🤖_Norel-NFC_Identity_AI-a78bfa?style=for-the-badge&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://viola-app-ralein.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌍_Miralen-Inclusive_Learning-a78bfa?style=for-the-badge&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center">📧 Email</td>
+    <td><a href="mailto:raleinnova@gmail.com">raleinnova@gmail.com</a></td>
+    <td align="center">📞 Phone</td>
+    <td><a href="tel:+918903541901">+91 8903541901</a></td>
+  </tr>
+  <tr>
+    <td align="center">📍 Location</td>
+    <td>Coimbatore, Tamil Nadu, India</td>
+    <td align="center">💼 Status</td>
+    <td>✅ Open to Freelance · Internships · Full-time</td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 
 <br/><br/>
 
 > *"I don't just write code — I craft experiences, build accessibility, and ship ideas into reality."*
-> 
+>
 > — **Ralein Nova**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:302b63,100:0a0a0f&height=140&section=footer&text=Thanks+for+visiting!+Let's+build+something+amazing+%E2%9C%A8&fontSize=16&fontColor=a78bfa&animation=twinkling&fontAlignY=65"/>
 
 </div>
