@@ -30,14 +30,16 @@
 
 ## 👋 `whoami`
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,100:1a0533&height=3&section=header"/>
+
 ```typescript
 const ralein: Developer = {
   name     : "Ralein Nova",
   title    : ["Fullstack Dev", "UI/UX Designer", "AI Builder"],
   location : "Coimbatore, India 📍",
-  edu      : "M.Tech CS @ SKCET (CGPA: 7.9) + Digital Media @ MAAC",
+  edu      : "M.Tech CS @ SKCET + Digital Media Design @ MAAC",
 
-  roles: [
+  currentRoles : [
     "⚡ Software Dev Intern @ Virtusa",
     "🔵 Fullstack Intern @ Bluekode Technologies",
   ],
@@ -57,13 +59,11 @@ const ralein: Developer = {
 };
 ```
 
-<br/>
-
 <div align="center">
 
-| 🗂️ Repos | 🌐 Live Apps | 💼 Internships | 🎓 Dual Degree | 🏙️ Location |
-|:---:|:---:|:---:|:---:|:---:|
-| **50+** | **8+** | **4 Companies** | **CS + Design** | **India 🇮🇳** |
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=Followers&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_gists&label=Gists&style=for-the-badge&color=6d28d9&labelColor=0d1117&logo=github&logoColor=white"/>
 
 </div>
 
@@ -101,15 +101,13 @@ const ralein: Developer = {
 
 ## 🚀 Flagship Projects
 
-> 🌟 Three core products — AI-first, accessible, human-centric engineering.
-
 <br/>
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top"><br/>
 
-### 🎬 Ravelion AI &nbsp; `AI / ML`
+### 🎬 Ravelion AI &nbsp;&nbsp; `AI / ML`
 
 **AI-powered media processing at the speed of thought.**
 
@@ -118,49 +116,47 @@ Background removal, object segmentation & real-time video editing powered by **B
 `Next.js` `Python` `FastAPI` `BiRefNet` `YOLOv7` `MobileSAM` `FFmpeg`
 
 [![Live Demo](https://img.shields.io/badge/↗_Live_Demo-00f5ff?style=for-the-badge&labelColor=0d0221)](https://ravelion-ralein.vercel.app/)
-[![Source](https://img.shields.io/badge/⌥_Source-333?style=for-the-badge&labelColor=0d0221)](https://github.com/Ralein)
+[![Source](https://img.shields.io/badge/⌥_Source-555?style=for-the-badge&labelColor=0d0221)](https://github.com/Ralein)
 
-</td>
-<td width="42%" valign="top">
+<br/></td>
+<td width="45%" valign="top"><br/>
 
 ```
-┌──────────────────────────────┐
-│  🎬  RAVELION AI             │
-│  ────────────────────────    │
-│  ⚡ GPU Accelerated          │
-│  🤖 3 AI Models              │
-│  🎞️  Real-time Processing    │
-│  🔬 YOLOv7 + MobileSAM       │
-│  ✂️  BiRefNet Segmentation    │
-└──────────────────────────────┘
+╔══════════════════════════════╗
+║   🎬  RAVELION AI            ║
+╠══════════════════════════════╣
+║  ⚡ GPU Accelerated          ║
+║  🤖 3 AI Models              ║
+║  🎞️  Real-time Processing    ║
+║  🔬 YOLOv7 + MobileSAM       ║
+║  ✂️  BiRefNet Segmentation    ║
+╚══════════════════════════════╝
 ```
 
-</td>
+<br/></td>
 </tr>
 </table>
 
-<br/>
-
 <table width="100%">
 <tr>
-<td width="42%" valign="top">
+<td width="45%" valign="top"><br/>
 
 ```
-┌──────────────────────────────┐
-│  📖  JARVIS                  │
-│  ────────────────────────    │
-│  ✍️  AI Writing Assistant    │
-│  ⚡ Groq Ultra-fast LLM      │
-│  🗄️  Neon DB + Drizzle ORM   │
-│  🔐 Firebase Auth            │
-│  📤 One-click Publishing     │
-└──────────────────────────────┘
+╔══════════════════════════════╗
+║   📖  JARVIS                 ║
+╠══════════════════════════════╣
+║  ✍️  AI Writing Assistant    ║
+║  ⚡ Groq Ultra-fast LLM      ║
+║  🗄️  Neon DB + Drizzle ORM   ║
+║  🔐 Firebase Auth            ║
+║  📤 One-click Publishing     ║
+╚══════════════════════════════╝
 ```
 
-</td>
-<td width="58%" valign="top">
+<br/></td>
+<td width="55%" valign="top"><br/>
 
-### 📖 Jarvis &nbsp; `Web App`
+### 📖 Jarvis &nbsp;&nbsp; `Web App`
 
 **Your AI co-author — from blank page to published book.**
 
@@ -170,17 +166,15 @@ AI-powered platform for writing, organizing and publishing books. Powered by **G
 
 [![Live Demo](https://img.shields.io/badge/↗_Live_Demo-fbbf24?style=for-the-badge&labelColor=0d0221)](https://jarvis-ralein.vercel.app/)
 
-</td>
+<br/></td>
 </tr>
 </table>
 
-<br/>
-
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top"><br/>
 
-### 🤖 NOREL — NOn RELay on Paper &nbsp; `AI / ML`
+### 🤖 NOREL — NOn RELay on Paper &nbsp;&nbsp; `AI / ML`
 
 **Identity without a single sheet of paper.**
 
@@ -190,22 +184,22 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 [![Live Demo](https://img.shields.io/badge/↗_Live_Demo-a855f7?style=for-the-badge&labelColor=0d0221)](https://norel-ralein.vercel.app/)
 
-</td>
-<td width="42%" valign="top">
+<br/></td>
+<td width="45%" valign="top"><br/>
 
 ```
-┌──────────────────────────────┐
-│  🤖  NOREL                   │
-│  ────────────────────────    │
-│  📲 NFC + QR Tap-to-Fill     │
-│  📵 100% Offline-Ready       │
-│  🔐 Secure Identity Sharing  │
-│  📝 Smart Form Builder       │
-│  🌐 Public Service Ready     │
-└──────────────────────────────┘
+╔══════════════════════════════╗
+║   🤖  NOREL                  ║
+╠══════════════════════════════╣
+║  📲 NFC + QR Tap-to-Fill     ║
+║  📵 100% Offline-Ready       ║
+║  🔐 Secure Identity Sharing  ║
+║  📝 Smart Form Builder       ║
+║  🌐 Public Service Ready     ║
+╚══════════════════════════════╝
 ```
 
-</td>
+<br/></td>
 </tr>
 </table>
 
@@ -214,17 +208,6 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 ---
 
 ## 📁 All Projects
-
-<div align="center">
-
-<a href="https://github.com/Ralein/resume-analyzer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=resume-analyzer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/></a>
-<a href="https://github.com/Ralein/formcraft-ai"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=formcraft-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/></a>
-<a href="https://github.com/Ralein/focusflow-erasor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=focusflow-erasor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/></a>
-<a href="https://github.com/Ralein/novira-ai"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=novira-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/></a>
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -272,14 +255,14 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 ## 🎓 Education
 
 ```
-🎓  Sri Krishna College of Engineering & Technology   2021–2026
-    M.Tech CSE (Integrated) · Anna University · CGPA: 7.9
+🎓  Sri Krishna College of Engineering & Technology   2021 – 2026
+    M.Tech CSE (Integrated) · Anna University
 
-🎨  MAAC Institute                                    2023–2025
+🎨  MAAC Institute                                    2023 – 2025
     Advanced Program in Digital Media & Design
 
-📚  PSG Public School — XII · CBSE · 93%             2020–2021
-📚  PSG Public School — X  · CBSE · 89%              2018–2019
+📚  PSG Public School — XII · CBSE                   2020 – 2021
+📚  PSG Public School — X  · CBSE                   2018 – 2019
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -315,7 +298,7 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
   </picture>
 </div>
 
-> 💡 Create a repo named `Ralein` → add [Platane/snk](https://github.com/Platane/snk) action → snake auto-generates daily.
+> 💡 Add [Platane/snk](https://github.com/Platane/snk) GitHub Action to this repo → snake auto-generates daily from your contribution grid.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
