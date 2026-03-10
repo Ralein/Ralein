@@ -1,82 +1,99 @@
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                      ANIMATED HEADER                              -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  ██████╗  █████╗ ██╗     ███████╗██╗███╗   ██╗           -->
+<!--  ██╔══██╗██╔══██╗██║     ██╔════╝██║████╗  ██║           -->
+<!--  ██████╔╝███████║██║     █████╗  ██║██╔██╗ ██║           -->
+<!--  ██╔══██╗██╔══██║██║     ██╔══╝  ██║██║╚██╗██║           -->
+<!--  ██║  ██║██║  ██║███████╗███████╗██║██║ ╚████║  NOVA     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:090f09,50:0a2015,100:0d2e1a&height=160&section=header&reversal=false&animation=fadeIn"/>
+<!-- ░░░ HEADER BANNER ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1f0a,70:062010,100:0d2e1a&height=220&section=header&text=Ralein%20Nova&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Dev%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Engineer&descAlignY=60&descSize=18&descColor=00ff87"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2015,40:062010,100:090f09&height=140&text=RALEIN%20NOVA&fontSize=72&fontColor=00ff87&animation=twinkling&fontAlignY=65&desc=Fullstack%20Dev%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Engineer&descAlignY=88&descSize=15&descColor=6effa8"/>
-
-</div>
-
-<!-- TYPING -->
-<div align="center">
+<!-- ░░░ ANIMATED WAVE HAND ░░░ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="38px" />&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00FF87&center=false&vCenter=true&width=480&height=38&lines=Hi+there!+I'm+Ralein+Nova" alt="Hi there!" />
 
 <br/>
 
+<!-- ░░░ ROLE TYPING ░░░ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2600&pause=1000&color=00FF87&center=true&vCenter=true&width=700&height=40&lines=+Building+ideas+into+digital+products+%F0%9F%9A%80;+AI+%2B+Web+%2B+Design+%3D+My+entire+stack+%F0%9F%A7%A0;+Crafting+inclusive+tech+for+everyone+%F0%9F%8C%8D;+Next.js+%7C+MERN+%7C+Spring+Boot+%7C+AI+Tools+%E2%9A%A1;+Where+code+meets+creativity+%F0%9F%8E%A8;+50%2B+Repos+%7C+8%2B+Live+Products+%7C+India+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=900&color=6effa8&center=true&vCenter=true&multiline=false&width=680&height=36&lines=%F0%9F%9A%80+Building+ideas+into+digital+products;%F0%9F%A7%A0+Where+AI+meets+Web+meets+Design;%E2%9A%A1+Next.js+%7C+MERN+%7C+Spring+Boot+%7C+FastAPI;%F0%9F%8E%A8+Crafting+inclusive+tech+for+everyone;%F0%9F%94%A5+50%2B+Repos+%7C+4+Internships+%7C+India" alt="roles" />
 </a>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://ralein.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/◈_PORTFOLIO-ralein.vercel.app-00ff87?style=for-the-badge&labelColor=090f09&logoColor=00ff87"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090f09"/></a>&nbsp;
-<a href="mailto:raleinnova@gmail.com"><img src="https://img.shields.io/badge/Gmail-raleinnova%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090f09"/></a>&nbsp;
-<a href="tel:+918903541901"><img src="https://img.shields.io/badge/WhatsApp-%2B91_8903541901-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=090f09"/></a>
+<!-- ░░░ SOCIAL LINKS ░░░ -->
+<a href="https://ralein.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/⬡ Portfolio-ralein.vercel.app-00ff87?style=for-the-badge&labelColor=0d1117"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>&nbsp;
+<a href="mailto:raleinnova@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-raleinnova@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>&nbsp;
+<a href="tel:+918903541901">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117"/>
+</a>
 
 <br/><br/>
 
-<!-- LIVE COUNTERS -->
-<img src="https://komarev.com/ghpvc/?username=Ralein&style=for-the-badge&color=00c96b&label=PROFILE+VIEWS&labelColor=090f09"/>&nbsp;
-<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=00ff87&labelColor=090f09&label=FOLLOWERS&logo=github&logoColor=00ff87"/>&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_repos&label=PUBLIC+REPOS&style=for-the-badge&color=00b85a&labelColor=090f09&logo=github&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/STATUS-▶_OPEN_TO_WORK-00ff87?style=for-the-badge&labelColor=090f09"/>
+<!-- ░░░ LIVE COUNTERS ░░░ -->
+<img src="https://komarev.com/ghpvc/?username=Ralein&style=for-the-badge&color=00c96b&label=VISITORS&labelColor=0d1117"/>&nbsp;
+<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=00ff87&labelColor=0d1117&label=FOLLOWERS&logo=github"/>&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_repos&label=REPOS&style=for-the-badge&color=00b85a&labelColor=0d1117&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/▶ OPEN TO WORK-00ff87?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                        ABOUT ME                                   -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 👋 About Me
+<div align="center">
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="30px"/>
+About Me
+</h2>
+</div>
 
 <table width="100%">
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
-```js
-> ralein --profile
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=3000&color=00FF87&width=440&height=22&lines=%24+cat+ralein.config.json" />
 
-  ┌─────────────────────────────────┐
-  │  name     →  Ralein Nova        │
-  │  location →  Coimbatore, India  │
-  │  edu      →  M.Tech CS @ SKCET  │
-  │              + Design @ MAAC    │
-  ├─────────────────────────────────┤
-  │  intern @ Virtusa               │
-  │  intern @ Bluekode Technologies │
-  ├─────────────────────────────────┤
-  │  open to  →  Freelance          │
-  │              Collabs            │
-  │              Full-time          │
-  ├─────────────────────────────────┤
-  │  vibe     →  lo-fi + 2AM ships  │
-  └─────────────────────────────────┘
+```json
+{
+  "name"     : "Ralein Nova",
+  "location" : "Coimbatore, India 📍",
+  "edu"      : [
+    "M.Tech CS  @ SKCET",
+    "Design     @ MAAC Institute"
+  ],
+  "currently": [
+    "⚡ Intern @ Virtusa",
+    "🔵 Intern @ Bluekode Technologies"
+  ],
+  "openTo"   : ["Freelance","Collabs","Full-time"],
+  "vibe"     : "lo-fi beats + 2AM deploys 🎧☕"
+}
 ```
 
 </td>
-<td width="48%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ralein&theme=tokyonight&hide_border=true&background=090f09&ring=00ff87&fire=00c96b&currStreakLabel=00ff87&sideLabels=6effa8&dates=2a5a3a&sideNums=ffffff&currStreakNum=ffffff" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ralein&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff87&fire=00c96b&currStreakLabel=00ff87&sideLabels=6effa8&dates=556b6b&sideNums=ffffff&currStreakNum=ffffff&stroke=00ff8730" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralein&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff87&text_color=c9d1d9&langs_count=6" width="100%"/>
 
 </td>
 </tr>
@@ -86,40 +103,47 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                       TECH STACK                                  -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
-
-## ⚙️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-**[ Frontend ]**
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28px"/>
+Tech Stack
+</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=9999&color=6effa8&center=true&width=400&height=20&lines=Tools+I+build+with+every+day" />
+
+<br/>
+
+**` Frontend `**
 <p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,vite&perline=10&theme=dark"/></p>
 
-**[ Backend ]**
+**` Backend `**
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,python,fastapi,graphql&perline=10&theme=dark"/></p>
 
-**[ Databases & Cloud ]**
+**` Databases & DevOps `**
 <p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,vercel,docker,aws&perline=10&theme=dark"/></p>
 
-**[ AI / ML & Design ]**
+**` AI / ML & Design `**
 <p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,figma,ps,ai,blender,ae,git,github&perline=10&theme=dark"/></p>
 
 <br/>
 
-**[ AI Ecosystem ]**
+**` AI Ecosystem `**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="36"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/YOLOv7-00FFAB?style=flat-square&logoColor=black" height="36"/>
-<img src="https://img.shields.io/badge/BiRefNet-00C2FF?style=flat-square&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/MobileSAM-FF6B6B?style=flat-square&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="34"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" height="34"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="34"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="34"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" height="34"/>
+<img src="https://img.shields.io/badge/YOLOv7-00FFAB?style=flat-square&logoColor=black" height="34"/>
+<img src="https://img.shields.io/badge/BiRefNet-00C2FF?style=flat-square&logoColor=white" height="34"/>
+<img src="https://img.shields.io/badge/MobileSAM-FF6B6B?style=flat-square&logoColor=white" height="34"/>
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" height="34"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="34"/>
 
 </div>
 
@@ -127,28 +151,31 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                    FLAGSHIP PROJECTS                              -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   FLAGSHIP PROJECTS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🚀 Flagship Projects
-
-<br/>
+<div align="center">
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28px"/>
+Flagship Projects
+</h2>
+</div>
 
 <table width="100%">
 <tr>
 <td width="55%" valign="top"><br/>
 
-### 🎬 Ravelion AI &nbsp;&nbsp; `AI / ML`
+### 🎬 Ravelion AI &nbsp; `AI / ML`
 
 **AI-powered media processing at the speed of thought.**
 
-Background removal, object segmentation & real-time video editing powered by **BiRefNet**, **YOLOv7** and **MobileSAM** — GPU-accelerated via **FastAPI**.
+Background removal, object segmentation & real-time video editing — powered by **BiRefNet**, **YOLOv7** & **MobileSAM** via **FastAPI**.
 
 `Next.js` `Python` `FastAPI` `BiRefNet` `YOLOv7` `MobileSAM` `FFmpeg`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00ff87?style=for-the-badge&labelColor=090f09)](https://ravelion-ralein.vercel.app/)
-[![Source](https://img.shields.io/badge/Source-333?style=for-the-badge&labelColor=090f09)](https://github.com/Ralein)
+[![Live Demo](https://img.shields.io/badge/↗_LIVE_DEMO-00ff87?style=for-the-badge&labelColor=0d1117)](https://ravelion-ralein.vercel.app/)
+[![Source](https://img.shields.io/badge/SOURCE-333?style=for-the-badge&labelColor=0d1117)](https://github.com/Ralein)
 
 <br/></td>
 <td width="45%" valign="top"><br/>
@@ -188,15 +215,15 @@ Background removal, object segmentation & real-time video editing powered by **B
 <br/></td>
 <td width="55%" valign="top"><br/>
 
-### 📖 Jarvis &nbsp;&nbsp; `Web App`
+### 📖 Jarvis &nbsp; `Web App`
 
 **Your AI co-author — from blank page to published book.**
 
-AI-powered platform for writing, organizing and publishing books. Powered by **Groq** for blazing LLM speed, **Neon DB** for serverless Postgres, **Firebase** for auth.
+Powered by **Groq** for blazing LLM speed, **Neon DB** for serverless Postgres, and **Firebase** for auth.
 
 `Next.js` `Groq` `Neon DB` `Drizzle` `Firebase`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-fbbf24?style=for-the-badge&labelColor=090f09)](https://jarvis-ralein.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/↗_LIVE_DEMO-fbbf24?style=for-the-badge&labelColor=0d1117)](https://jarvis-ralein.vercel.app/)
 
 <br/></td>
 </tr>
@@ -206,15 +233,15 @@ AI-powered platform for writing, organizing and publishing books. Powered by **G
 <tr>
 <td width="55%" valign="top"><br/>
 
-### 🤖 NOREL — NOn RELay on Paper &nbsp;&nbsp; `AI / ML`
+### 🤖 NOREL &nbsp; `AI / ML`
 
 **Identity without a single sheet of paper.**
 
-Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-capable** automation for public services with a smart form builder.
+Paperless identity via **NFC/QR tap-to-fill**, secure **offline-capable** automation for public services with a smart form builder.
 
 `Next.js` `AI` `NFC` `QR` `PWA` `Offline-first`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00ff87?style=for-the-badge&labelColor=090f09)](https://norel-ralein.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/↗_LIVE_DEMO-a78bfa?style=for-the-badge&labelColor=0d1117)](https://norel-ralein.vercel.app/)
 
 <br/></td>
 <td width="45%" valign="top"><br/>
@@ -239,15 +266,18 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                      ALL PROJECTS                                 -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
-
-## 📁 All Projects
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     ALL PROJECTS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-| ✦ | Project | Description | Stack | |
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="28px"/>
+All Projects
+</h2>
+
+| ✦ | Project | Description | Stack | Status |
 |:---:|:---|:---|:---|:---:|
 | 🎬 | [**Ravelion AI**](https://ravelion-ralein.vercel.app/) | GPU AI media — BG removal, segmentation, video editing | Next.js · FastAPI · BiRefNet · YOLOv7 | 🟢 |
 | 📖 | [**Jarvis**](https://jarvis-ralein.vercel.app/) | AI book writing & publishing powered by Groq | Next.js · Groq · Neon DB · Firebase | 🟢 |
@@ -265,11 +295,16 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                      EXPERIENCE                                   -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      EXPERIENCE                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 💼 Experience
+<div align="center">
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28px"/>
+Experience
+</h2>
+</div>
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
@@ -292,7 +327,16 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-## 🎓 Education
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      EDUCATION                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28px"/>
+Education
+</h2>
+</div>
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
@@ -311,64 +355,100 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                    GITHUB ANALYTICS                               -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
-
-## 📊 GitHub Analytics
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB ANALYTICS                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ralein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090f09&title_color=00ff87&icon_color=00c96b&text_color=c9d1d9&ring_color=00ff87&count_private=true&include_all_commits=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralein&layout=compact&theme=tokyonight&hide_border=true&bg_color=090f09&title_color=00ff87&text_color=c9d1d9&langs_count=8&count_private=true"/>
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28px"/>
+GitHub Analytics
+</h2>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ralein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00c96b&text_color=c9d1d9&ring_color=00ff87&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralein&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff87&text_color=c9d1d9&langs_count=8&count_private=true"/>
 
 <br/><br/>
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ralein&bg_color=090f09&color=00ff87&line=00c96b&point=00ff87&area=true&hide_border=true&area_color=00ff8715&custom_title=Ralein's%20Contribution%20Graph"/>
+<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ralein&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff87&fire=00c96b&currStreakLabel=00ff87&sideLabels=6effa8&dates=556b6b&sideNums=ffffff&currStreakNum=ffffff"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ralein&bg_color=0d1117&color=00ff87&line=00c96b&point=00ff87&area=true&hide_border=true&area_color=00ff8715&custom_title=Ralein's%20Contribution%20Graph"/>
 
 </div>
 
----
-
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                   CONTRIBUTION SNAKE                              -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
-
-## 🐍 Contribution Snake
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      TROPHIES                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/dist/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/dist/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Ralein/Ralein/dist/github-snake-dark.svg" width="94%"/>
-  </picture>
-</div>
 
-> 💡 Add [Platane/snk](https://github.com/Platane/snk) GitHub Action → snake auto-generates daily from your contribution grid.
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ralein&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                       CONNECT                                     -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
-
-## 🤝 Connect
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION SNAKE                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="https://ralein.vercel.app/"><img src="https://img.shields.io/badge/◈_Portfolio-ralein.vercel.app-00ff87?style=for-the-badge&labelColor=090f09&logo=vercel&logoColor=00ff87"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090f09"/></a>&nbsp;
-<a href="mailto:raleinnova@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090f09"/></a>&nbsp;
-<a href="tel:+918903541901"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=090f09"/></a>
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28px"/>
+Contribution Snake
+</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/github-snake-dark.svg" width="96%"/>
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       CONNECT                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28px"/>
+Let's Connect
+</h2>
+
+<a href="https://ralein.vercel.app/">
+  <img src="https://img.shields.io/badge/⬡ Portfolio-ralein.vercel.app-00ff87?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=00ff87"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>&nbsp;
+<a href="mailto:raleinnova@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>&nbsp;
+<a href="tel:+918903541901">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117"/>
+</a>
 
 <br/><br/>
 
-> *"I don't just write code — I craft experiences, build accessibility, and ship ideas into reality."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=3000&color=6effa8&center=true&vCenter=true&width=680&height=28&lines=%22I+don't+just+write+code+—+I+craft+experiences%2C+build+accessibility%2C+and+ship+ideas+into+reality.%22" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2e1a,50:0a2015,100:090f09&height=130&section=footer&text=Thanks+for+visiting!+Let's+build+something+amazing&fontSize=15&fontColor=00ff87&animation=twinkling&fontAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2e1a,60:0a1f0a,100:0d1117&height=130&section=footer&text=Thanks+for+visiting!+Let's+build+something+amazing+✨&fontSize=14&fontColor=00ff87&animation=twinkling&fontAlignY=72"/>
 
 </div>
