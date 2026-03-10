@@ -28,42 +28,45 @@
 
 ---
 
-## 👋 `whoami`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,100:1a0533&height=3&section=header"/>
-
-```typescript
-const ralein: Developer = {
-  name     : "Ralein Nova",
-  title    : ["Fullstack Dev", "UI/UX Designer", "AI Builder"],
-  location : "Coimbatore, India 📍",
-  edu      : "M.Tech CS @ SKCET + Digital Media Design @ MAAC",
-
-  currentRoles : [
-    "⚡ Software Dev Intern @ Virtusa",
-    "🔵 Fullstack Intern @ Bluekode Technologies",
-  ],
-
-  stack: {
-    frontend  : ["React", "Next.js", "TypeScript", "Tailwind", "Framer"],
-    backend   : ["Node.js", "Express", "Spring Boot", "PHP", "Python"],
-    databases : ["MongoDB", "MySQL", "PostgreSQL", "Neon DB", "Firebase"],
-    ai        : ["LangChain", "Groq", "OpenAI", "YOLOv7", "BiRefNet",
-                 "MobileSAM", "Ollama", "Streamlit", "FFmpeg"],
-    design    : ["Figma", "Photoshop", "Illustrator", "InDesign", "Blender"],
-    devops    : ["Vercel", "Docker", "Git", "GitHub Actions"],
-  },
-
-  openTo   : "Freelance · Internships · Collabs · Full-time",
-  funFact  : "I debug with lo-fi beats 🎧 and ship at 2AM ☕",
-};
-```
+## 👋 About Me
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=Followers&logo=github&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_gists&label=Gists&style=for-the-badge&color=6d28d9&labelColor=0d1117&logo=github&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=180&text=Ralein+Nova&fontSize=28&fontColor=d4b4fe&fontAlignY=40&desc=Fullstack+Dev+%7C+UI%2FUX+%7C+AI+Builder&descSize=13&descColor=9d7fe0&descAlignY=65" width="100%"/>
+
+<br/>
+
+![Location](https://img.shields.io/badge/📍_Coimbatore-India-7c3aed?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/💼_Status-Open_to_Work-00c951?style=flat-square&labelColor=0d1117)
+![Education](https://img.shields.io/badge/🎓_M.Tech_CS-SKCET-a78bfa?style=flat-square&labelColor=0d1117)
+![Design](https://img.shields.io/badge/🎨_Digital_Media-MAAC-a78bfa?style=flat-square&labelColor=0d1117)
+
+<br/>
+
+![Virtusa](https://img.shields.io/badge/⚡_Interning_@-Virtusa-00f5ff?style=flat-square&labelColor=0d1117)
+![Bluekode](https://img.shields.io/badge/🔵_Interning_@-Bluekode_Technologies-4f8ef7?style=flat-square&labelColor=0d1117)
+
+<br/>
+
+![Open To](https://img.shields.io/badge/Open_To-Freelance_%7C_Collabs_%7C_Full--time-fbbf24?style=flat-square&labelColor=0d1117)
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ralein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&count_private=true&include_all_commits=true&hide=stars" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_repos&label=Public+Repos&style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=Followers&logo=github&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -123,13 +126,13 @@ Background removal, object segmentation & real-time video editing powered by **B
 
 ```
 ╔══════════════════════════════╗
-║   🎬  RAVELION AI            ║
+║        RAVELION AI           ║
 ╠══════════════════════════════╣
-║  ⚡ GPU Accelerated          ║
-║  🤖 3 AI Models              ║
-║  🎞️  Real-time Processing    ║
-║  🔬 YOLOv7 + MobileSAM       ║
-║  ✂️  BiRefNet Segmentation    ║
+║  GPU Accelerated             ║
+║  3 AI Models                 ║
+║  Real-time Processing        ║
+║  YOLOv7 + MobileSAM          ║
+║  BiRefNet Segmentation       ║
 ╚══════════════════════════════╝
 ```
 
@@ -143,13 +146,13 @@ Background removal, object segmentation & real-time video editing powered by **B
 
 ```
 ╔══════════════════════════════╗
-║   📖  JARVIS                 ║
+║           JARVIS             ║
 ╠══════════════════════════════╣
-║  ✍️  AI Writing Assistant    ║
-║  ⚡ Groq Ultra-fast LLM      ║
-║  🗄️  Neon DB + Drizzle ORM   ║
-║  🔐 Firebase Auth            ║
-║  📤 One-click Publishing     ║
+║  AI Writing Assistant        ║
+║  Groq Ultra-fast LLM         ║
+║  Neon DB + Drizzle ORM       ║
+║  Firebase Auth               ║
+║  One-click Publishing        ║
 ╚══════════════════════════════╝
 ```
 
@@ -189,13 +192,13 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 ```
 ╔══════════════════════════════╗
-║   🤖  NOREL                  ║
+║           NOREL              ║
 ╠══════════════════════════════╣
-║  📲 NFC + QR Tap-to-Fill     ║
-║  📵 100% Offline-Ready       ║
-║  🔐 Secure Identity Sharing  ║
-║  📝 Smart Form Builder       ║
-║  🌐 Public Service Ready     ║
+║  NFC + QR Tap-to-Fill        ║
+║  100% Offline-Ready          ║
+║  Secure Identity Sharing     ║
+║  Smart Form Builder          ║
+║  Public Service Ready        ║
 ╚══════════════════════════════╝
 ```
 
