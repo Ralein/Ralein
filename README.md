@@ -207,11 +207,50 @@ const ralein = {
 
 ---
 
-## 🏆 Achievements
+## 🌌 My Cosmic Dev Universe
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Ralein&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:03001C,60:0B0C2A,100:1a0533&height=4"/>
+
+</div>
+
+```
+ ·  ✦       ·    ✦   ·         ·      ✦         *      ·       ✦    *
+        *          ·       *        ✦      ·          ✦          ·
+  ·  ✦     *                  ·   ┌─────────────────────────────────┐   ·   *
+                    ·          *  │   ☀  RALEIN'S SOLAR SYSTEM  ☀   │ ✦
+ *     ✦       ·                  └─────────────────────────────────┘          ·
+  ·        *       ✦     ·              *           ·       *       ✦
+
+            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+     .  .  .        ──────────────────────────────────────────  .  .  .
+     .             |  ☿  Mercury  |  HTML · CSS · Tailwind      |   0.4 AU  |
+     .  .  .        ──────────────────────────────────────────  .  .  .
+     .             |  ♀  Venus    |  React · Next.js · Framer   |   0.7 AU  |
+     .  .  .        ──────────────────────────────────────────  .  .  .
+     .             |  🌍 Earth    |  Node.js · Express · APIs   |   1.0 AU  |
+     .  .  .        ──────────────────────────────────────────  .  .  .
+  ✦  .             |  ♂  Mars     |  MongoDB · MySQL · Firebase  |   1.5 AU  |
+     .  .  .        ──────────────────────────────────────────  .  .  .
+     .             |  ♃  Jupiter  |  AI · LangChain · Ollama    |   5.2 AU  |
+     .  .  .        ──────────────────────────────────────────  .  .  .
+     .             |  ♄  Saturn   |  Java · Spring Boot · PHP   |   9.5 AU  |
+     .  .  .        ──────────────────────────────────────────  .  .  .
+     .             |  ⛢  Uranus   |  Figma · PS · Illustrator   |  19.8 AU  |
+     .  .  .        ──────────────────────────────────────────  .  .  .
+     .             |  ♆  Neptune  |  Docker · Vercel · DevOps   |  30.1 AU  |
+     .  .  .        ──────────────────────────────────────────  .  .  .
+            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+
+                  ✦    ·    *         ☀  Core Star: JavaScript + TypeScript
+ *       ·    ✦             *    ·          Fusing creativity & logic since 2021
+    ·         *    ✦    ·        *     ✦              Coimbatore → Universe 🚀
+```
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,30:0B0C2A,60:03001C,100:000000&height=4"/>
 
 </div>
 
