@@ -1,24 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:060610,30:0d0221,60:130428,100:1a0533&height=280&section=header&text=RALEIN%20NOVA&fontSize=86&fontColor=d4b4fe&animation=twinkling&fontAlignY=45&desc=Fullstack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Engineer&descAlignY=65&descSize=19&descColor=9d7fe0&stroke=7c3aed&strokeWidth=2" />
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:060a14,30:041824,60:062030,100:073040&height=280&section=header&text=RALEIN%20NOVA&fontSize=86&fontColor=00d4ff&animation=twinkling&fontAlignY=45&desc=Fullstack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Engineer&descAlignY=65&descSize=19&descColor=67c8e8&stroke=00a8cc&strokeWidth=2" />
 
 <br/>
 
+<!-- TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&height=44&lines=%F0%9F%9A%80+Building+ideas+into+digital+products;%F0%9F%A7%A0+AI+%2B+Web+%2B+Design+%3D+My+Stack;%F0%9F%8C%8D+Crafting+inclusive+tech+for+everyone;%E2%9A%A1+Next.js+%7C+MERN+%7C+Spring+Boot+%7C+AI+Tools;%F0%9F%94%A5+50%2B+Repos+%7C+8%2B+Live+Products+%7C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=680&height=44&lines=%F0%9F%9A%80+Building+ideas+into+digital+products;%F0%9F%A7%A0+AI+%2B+Web+%2B+Design+%3D+My+Stack;%F0%9F%8C%8D+Crafting+inclusive+tech+for+everyone;%E2%9A%A1+Next.js+%7C+MERN+%7C+Spring+Boot+%7C+AI+Tools;%F0%9F%94%A5+50%2B+Repos+%7C+8%2B+Live+Products+%7C+India" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="https://ralein.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-ralein.vercel.app-7c3aed?style=for-the-badge&labelColor=0d0221"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/></a>&nbsp;
-<a href="mailto:raleinnova@gmail.com"><img src="https://img.shields.io/badge/Gmail-raleinnova%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221"/></a>
+<!-- SOCIAL -->
+<a href="https://ralein.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ralein.vercel.app-00a8cc?style=for-the-badge&labelColor=060a14&logo=vercel&logoColor=00d4ff"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060a14"/></a>&nbsp;
+<a href="mailto:raleinnova@gmail.com"><img src="https://img.shields.io/badge/Gmail-raleinnova%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060a14"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ralein&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=0d0221"/>&nbsp;
-<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=a78bfa&labelColor=0d0221&label=FOLLOWERS"/>&nbsp;
-<img src="https://img.shields.io/badge/STATUS-%E2%9C%85_OPEN_TO_WORK-00c951?style=for-the-badge&labelColor=0d0221"/>
+<!-- COUNTERS -->
+<img src="https://komarev.com/ghpvc/?username=Ralein&style=for-the-badge&color=00a8cc&label=PROFILE+VIEWS&labelColor=060a14"/>&nbsp;
+<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=00d4ff&labelColor=060a14&label=FOLLOWERS"/>&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00e676?style=for-the-badge&labelColor=060a14"/>
 
 </div>
 
@@ -32,41 +36,24 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+```
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║                                                                  ║
+ ║    Ralein Nova  —  Coimbatore, India                            ║
+ ║    M.Tech CS @ SKCET  +  Digital Media Design @ MAAC           ║
+ ║                                                                  ║
+ ║    Currently:  Software Dev Intern @ Virtusa                    ║
+ ║                Fullstack Intern @ Bluekode Technologies         ║
+ ║                                                                  ║
+ ║    Open to:    Freelance  |  Collabs  |  Full-time              ║
+ ║    Fun fact:   I debug with lo-fi beats and ship at 2AM         ║
+ ║                                                                  ║
+ ╚══════════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=180&text=Ralein+Nova&fontSize=28&fontColor=d4b4fe&fontAlignY=40&desc=Fullstack+Dev+%7C+UI%2FUX+%7C+AI+Builder&descSize=13&descColor=9d7fe0&descAlignY=65" width="100%"/>
-
-<br/>
-
-![Location](https://img.shields.io/badge/📍_Coimbatore-India-7c3aed?style=flat-square&labelColor=0d1117)
-![Status](https://img.shields.io/badge/💼_Status-Open_to_Work-00c951?style=flat-square&labelColor=0d1117)
-![Education](https://img.shields.io/badge/🎓_M.Tech_CS-SKCET-a78bfa?style=flat-square&labelColor=0d1117)
-![Design](https://img.shields.io/badge/🎨_Digital_Media-MAAC-a78bfa?style=flat-square&labelColor=0d1117)
-
-<br/>
-
-![Virtusa](https://img.shields.io/badge/⚡_Interning_@-Virtusa-00f5ff?style=flat-square&labelColor=0d1117)
-![Bluekode](https://img.shields.io/badge/🔵_Interning_@-Bluekode_Technologies-4f8ef7?style=flat-square&labelColor=0d1117)
-
-<br/>
-
-![Open To](https://img.shields.io/badge/Open_To-Freelance_%7C_Collabs_%7C_Full--time-fbbf24?style=flat-square&labelColor=0d1117)
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ralein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&count_private=true&include_all_commits=true&hide=stars" width="100%"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_repos&label=Public+Repos&style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=Followers&logo=github&logoColor=white"/>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_repos&label=Public+Repos&style=for-the-badge&color=00a8cc&labelColor=060a14&logo=github&logoColor=00d4ff"/>&nbsp;
+<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=00d4ff&labelColor=060a14&label=Followers&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_gists&label=Gists&style=for-the-badge&color=0096b4&labelColor=060a14&logo=github&logoColor=white"/>
 
 </div>
 
@@ -118,8 +105,8 @@ Background removal, object segmentation & real-time video editing powered by **B
 
 `Next.js` `Python` `FastAPI` `BiRefNet` `YOLOv7` `MobileSAM` `FFmpeg`
 
-[![Live Demo](https://img.shields.io/badge/↗_Live_Demo-00f5ff?style=for-the-badge&labelColor=0d0221)](https://ravelion-ralein.vercel.app/)
-[![Source](https://img.shields.io/badge/⌥_Source-555?style=for-the-badge&labelColor=0d0221)](https://github.com/Ralein)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&labelColor=060a14)](https://ravelion-ralein.vercel.app/)
+[![Source](https://img.shields.io/badge/Source-555?style=for-the-badge&labelColor=060a14)](https://github.com/Ralein)
 
 <br/></td>
 <td width="45%" valign="top"><br/>
@@ -167,7 +154,7 @@ AI-powered platform for writing, organizing and publishing books. Powered by **G
 
 `Next.js` `Groq` `Neon DB` `Drizzle` `Firebase`
 
-[![Live Demo](https://img.shields.io/badge/↗_Live_Demo-fbbf24?style=for-the-badge&labelColor=0d0221)](https://jarvis-ralein.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-fbbf24?style=for-the-badge&labelColor=060a14)](https://jarvis-ralein.vercel.app/)
 
 <br/></td>
 </tr>
@@ -185,7 +172,7 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 `Next.js` `AI` `NFC` `QR` `PWA` `Offline-first`
 
-[![Live Demo](https://img.shields.io/badge/↗_Live_Demo-a855f7?style=for-the-badge&labelColor=0d0221)](https://norel-ralein.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00e676?style=for-the-badge&labelColor=060a14)](https://norel-ralein.vercel.app/)
 
 <br/></td>
 <td width="45%" valign="top"><br/>
@@ -236,36 +223,38 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║  ⚡ VIRTUSA                                        Aug 2025 — Present         ║
-║     Software Developer Intern                                                 ║
-║     → React · Spring Boot · SQL · Charge Management System (1k+ records)     ║
+║  VIRTUSA                                           Aug 2025 - Present        ║
+║  Software Developer Intern                                                    ║
+║  -> React · Spring Boot · SQL · Charge Management System (1k+ records)       ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
-║  🔵 BLUEKODE TECHNOLOGIES                          Jun 2025 — Present         ║
-║     Full Stack Developer Intern                                               ║
-║     → MERN Stack · RESTful APIs · Scalable Architectures                     ║
+║  BLUEKODE TECHNOLOGIES                             Jun 2025 - Present        ║
+║  Full Stack Developer Intern                                                  ║
+║  -> MERN Stack · RESTful APIs · Scalable Architectures                       ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
-║  🏭 PRICOL PVT. LTD., COIMBATORE                  May 2025                   ║
-║     Full Stack Developer Intern                                               ║
-║     → AI Ticket Similarity Analyzer (Python · Streamlit · 85% accuracy)     ║
-║     → 5+ Next.js Dashboards · Mobile-Responsive UI                           ║
+║  PRICOL PVT. LTD., COIMBATORE                      May 2025                  ║
+║  Full Stack Developer Intern                                                  ║
+║  -> AI Ticket Similarity Analyzer (Python · Streamlit · 85% accuracy)       ║
+║  -> 5+ Next.js Dashboards · Mobile-Responsive UI                             ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
-║  🔧 GRACE LASER JET TECHNOLOGIES                  May 2024                   ║
-║     Hardware Technical Intern                                                 ║
-║     → PC Assembly · BIOS Optimization · Hardware Troubleshooting             ║
+║  GRACE LASER JET TECHNOLOGIES                      May 2024                  ║
+║  Hardware Technical Intern                                                    ║
+║  -> PC Assembly · BIOS Optimization · Hardware Troubleshooting               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ## 🎓 Education
 
 ```
-🎓  Sri Krishna College of Engineering & Technology   2021 – 2026
-    M.Tech CSE (Integrated) · Anna University
-
-🎨  MAAC Institute                                    2023 – 2025
-    Advanced Program in Digital Media & Design
-
-📚  PSG Public School — XII · CBSE                   2020 – 2021
-📚  PSG Public School — X  · CBSE                   2018 – 2019
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  Sri Krishna College of Engineering & Technology   2021 - 2026               ║
+║  M.Tech CSE (Integrated) · Anna University                                    ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║  MAAC Institute                                    2023 - 2025               ║
+║  Advanced Program in Digital Media & Design                                   ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║  PSG Public School - XII · CBSE                    2020 - 2021               ║
+║  PSG Public School - X  · CBSE                     2018 - 2019               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -276,16 +265,11 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ralein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralein&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10&count_private=true"/>
+<img width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ralein&theme=tokyonight&hide_border=true&background=060a14&ring=00d4ff&fire=00a8cc&currStreakLabel=00d4ff&sideLabels=67c8e8&dates=4a6a7a&sideNums=ffffff&currStreakNum=ffffff"/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ralein&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&sideNums=ffffff"/>
-
-<br/><br/>
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ralein&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&hide_border=true&area_color=7c3aed20&custom_title=Ralein's%20Contribution%20Graph"/>
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ralein&bg_color=060a14&color=00d4ff&line=00a8cc&point=00d4ff&area=true&hide_border=true&area_color=00d4ff15&custom_title=Ralein's%20Contribution%20Graph"/>
 
 </div>
 
@@ -301,7 +285,7 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
   </picture>
 </div>
 
-> 💡 Add [Platane/snk](https://github.com/Platane/snk) GitHub Action to this repo → snake auto-generates daily from your contribution grid.
+> 💡 Add [Platane/snk](https://github.com/Platane/snk) GitHub Action to this repo → snake auto-generates daily.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -311,10 +295,10 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 <div align="center">
 
-<a href="https://ralein.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-ralein.vercel.app-7c3aed?style=for-the-badge&labelColor=0d1117"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>&nbsp;
-<a href="mailto:raleinnova@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>&nbsp;
-<a href="tel:+918903541901"><img src="https://img.shields.io/badge/%2B91_8903541901-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://ralein.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ralein.vercel.app-00a8cc?style=for-the-badge&labelColor=060a14&logo=vercel&logoColor=00d4ff"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060a14"/></a>&nbsp;
+<a href="mailto:raleinnova@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060a14"/></a>&nbsp;
+<a href="tel:+918903541901"><img src="https://img.shields.io/badge/%2B91_8903541901-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=060a14"/></a>
 
 <br/><br/>
 
@@ -322,6 +306,6 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:302b63,100:060610&height=120&section=footer&text=Thanks+for+visiting!+Let's+build+something+amazing+%E2%9C%A8&fontSize=15&fontColor=a78bfa&animation=twinkling&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073040,50:041824,100:060a14&height=120&section=footer&text=Thanks+for+visiting!+Let's+build+something+amazing&fontSize=15&fontColor=00d4ff&animation=twinkling&fontAlignY=65"/>
 
 </div>
