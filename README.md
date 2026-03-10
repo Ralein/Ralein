@@ -167,7 +167,8 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ralein&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+<!-- GitHub Trophies API is currently returning 503 (down): -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Ralein&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/> -->
 
 </div>
 
@@ -228,7 +229,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=9999&color=ffcc80&center=true&vCenter=true&width=700&height=28&lines=%22I+don't+just+write+code+—+I+craft+experiences%2C+build+accessibility%2C+and+ship+ideas+into+reality.%22" alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=9999&color=ffcc80&center=true&vCenter=true&width=700&height=28&lines=I+dont+just+write+code+-+I+craft+experiences,+build+accessibility,+and+ship+ideas+into+reality." alt="Quote"/>
 
 <br/><br/>
 
