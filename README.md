@@ -1,28 +1,28 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:060a14,30:041824,60:062030,100:073040&height=280&section=header&text=RALEIN%20NOVA&fontSize=86&fontColor=00d4ff&animation=twinkling&fontAlignY=45&desc=Fullstack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Engineer&descAlignY=65&descSize=19&descColor=67c8e8&stroke=00a8cc&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:090f09,30:090f09,60:0a1a0a,100:0a1f0a&height=280&section=header&text=RALEIN%20NOVA&fontSize=86&fontColor=00ff87&animation=twinkling&fontAlignY=45&desc=Fullstack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Engineer&descAlignY=65&descSize=19&descColor=6effa8&stroke=00c96b&strokeWidth=2" />
 
 <br/>
 
 <!-- TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=680&height=44&lines=%F0%9F%9A%80+Building+ideas+into+digital+products;%F0%9F%A7%A0+AI+%2B+Web+%2B+Design+%3D+My+Stack;%F0%9F%8C%8D+Crafting+inclusive+tech+for+everyone;%E2%9A%A1+Next.js+%7C+MERN+%7C+Spring+Boot+%7C+AI+Tools;%F0%9F%94%A5+50%2B+Repos+%7C+8%2B+Live+Products+%7C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=00FF87&center=true&vCenter=true&width=680&height=44&lines=%F0%9F%9A%80+Building+ideas+into+digital+products;%F0%9F%A7%A0+AI+%2B+Web+%2B+Design+%3D+My+Stack;%F0%9F%8C%8D+Crafting+inclusive+tech+for+everyone;%E2%9A%A1+Next.js+%7C+MERN+%7C+Spring+Boot+%7C+AI+Tools;%F0%9F%94%A5+50%2B+Repos+%7C+8%2B+Live+Products+%7C+India" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- SOCIAL -->
-<a href="https://ralein.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ralein.vercel.app-00a8cc?style=for-the-badge&labelColor=060a14&logo=vercel&logoColor=00d4ff"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060a14"/></a>&nbsp;
-<a href="mailto:raleinnova@gmail.com"><img src="https://img.shields.io/badge/Gmail-raleinnova%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060a14"/></a>
+<a href="https://ralein.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ralein.vercel.app-00c96b?style=for-the-badge&labelColor=090f09&logo=vercel&logoColor=00ff87"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090f09"/></a>&nbsp;
+<a href="mailto:raleinnova@gmail.com"><img src="https://img.shields.io/badge/Gmail-raleinnova%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090f09"/></a>
 
 <br/><br/>
 
 <!-- COUNTERS -->
-<img src="https://komarev.com/ghpvc/?username=Ralein&style=for-the-badge&color=00a8cc&label=PROFILE+VIEWS&labelColor=060a14"/>&nbsp;
-<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=00d4ff&labelColor=060a14&label=FOLLOWERS"/>&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00e676?style=for-the-badge&labelColor=060a14"/>
+<img src="https://komarev.com/ghpvc/?username=Ralein&style=for-the-badge&color=00c96b&label=PROFILE+VIEWS&labelColor=090f09"/>&nbsp;
+<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=00ff87&labelColor=090f09&label=FOLLOWERS"/>&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00e676?style=for-the-badge&labelColor=090f09"/>
 
 </div>
 
@@ -34,28 +34,36 @@
 
 ## 👋 About Me
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
+```js
+> ralein.profile()
+
+  name     →  Ralein Nova
+  location →  Coimbatore, India
+  edu      →  M.Tech CS @ SKCET
+               + Digital Media @ MAAC
+  roles    →  Intern @ Virtusa
+               Intern @ Bluekode Technologies
+  open to  →  Freelance | Collabs | Full-time
+  vibe     →  lo-fi beats + 2AM deploys
 ```
- ╔══════════════════════════════════════════════════════════════════╗
- ║                                                                  ║
- ║    Ralein Nova  —  Coimbatore, India                            ║
- ║    M.Tech CS @ SKCET  +  Digital Media Design @ MAAC           ║
- ║                                                                  ║
- ║    Currently:  Software Dev Intern @ Virtusa                    ║
- ║                Fullstack Intern @ Bluekode Technologies         ║
- ║                                                                  ║
- ║    Open to:    Freelance  |  Collabs  |  Full-time              ║
- ║    Fun fact:   I debug with lo-fi beats and ship at 2AM         ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
-```
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_repos&label=Public+Repos&style=for-the-badge&color=00a8cc&labelColor=060a14&logo=github&logoColor=00d4ff"/>&nbsp;
-<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=00d4ff&labelColor=060a14&label=Followers&logo=github&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_gists&label=Gists&style=for-the-badge&color=0096b4&labelColor=060a14&logo=github&logoColor=white"/>
+</td>
+<td width="50%" valign="top" align="center">
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ralein&theme=tokyonight&hide_border=true&background=090f09&ring=00ff87&fire=00c96b&currStreakLabel=00ff87&sideLabels=6effa8&dates=2a5a3a&sideNums=ffffff&currStreakNum=ffffff" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ralein&query=$.public_repos&label=Repos&style=for-the-badge&color=00c96b&labelColor=090f09&logo=github&logoColor=00ff87"/>&nbsp;
+<img src="https://img.shields.io/github/followers/Ralein?style=for-the-badge&color=00ff87&labelColor=090f09&label=Followers&logo=github&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -105,8 +113,8 @@ Background removal, object segmentation & real-time video editing powered by **B
 
 `Next.js` `Python` `FastAPI` `BiRefNet` `YOLOv7` `MobileSAM` `FFmpeg`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&labelColor=060a14)](https://ravelion-ralein.vercel.app/)
-[![Source](https://img.shields.io/badge/Source-555?style=for-the-badge&labelColor=060a14)](https://github.com/Ralein)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00ff87?style=for-the-badge&labelColor=090f09)](https://ravelion-ralein.vercel.app/)
+[![Source](https://img.shields.io/badge/Source-555?style=for-the-badge&labelColor=090f09)](https://github.com/Ralein)
 
 <br/></td>
 <td width="45%" valign="top"><br/>
@@ -154,7 +162,7 @@ AI-powered platform for writing, organizing and publishing books. Powered by **G
 
 `Next.js` `Groq` `Neon DB` `Drizzle` `Firebase`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-fbbf24?style=for-the-badge&labelColor=060a14)](https://jarvis-ralein.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-fbbf24?style=for-the-badge&labelColor=090f09)](https://jarvis-ralein.vercel.app/)
 
 <br/></td>
 </tr>
@@ -172,7 +180,7 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 `Next.js` `AI` `NFC` `QR` `PWA` `Offline-first`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00e676?style=for-the-badge&labelColor=060a14)](https://norel-ralein.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00e676?style=for-the-badge&labelColor=090f09)](https://norel-ralein.vercel.app/)
 
 <br/></td>
 <td width="45%" valign="top"><br/>
@@ -265,11 +273,7 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 <div align="center">
 
-<img width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ralein&theme=tokyonight&hide_border=true&background=060a14&ring=00d4ff&fire=00a8cc&currStreakLabel=00d4ff&sideLabels=67c8e8&dates=4a6a7a&sideNums=ffffff&currStreakNum=ffffff"/>
-
-<br/><br/>
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ralein&bg_color=060a14&color=00d4ff&line=00a8cc&point=00d4ff&area=true&hide_border=true&area_color=00d4ff15&custom_title=Ralein's%20Contribution%20Graph"/>
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ralein&bg_color=090f09&color=00ff87&line=00c96b&point=00ff87&area=true&hide_border=true&area_color=00ff8715&custom_title=Ralein's%20Contribution%20Graph"/>
 
 </div>
 
@@ -279,9 +283,9 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Ralein/Ralein/output/github-snake-dark.svg" width="94%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/dist/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/dist/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Ralein/Ralein/dist/github-snake-dark.svg" width="94%"/>
   </picture>
 </div>
 
@@ -295,10 +299,10 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 <div align="center">
 
-<a href="https://ralein.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ralein.vercel.app-00a8cc?style=for-the-badge&labelColor=060a14&logo=vercel&logoColor=00d4ff"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060a14"/></a>&nbsp;
-<a href="mailto:raleinnova@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060a14"/></a>&nbsp;
-<a href="tel:+918903541901"><img src="https://img.shields.io/badge/%2B91_8903541901-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=060a14"/></a>
+<a href="https://ralein.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ralein.vercel.app-00c96b?style=for-the-badge&labelColor=090f09&logo=vercel&logoColor=00ff87"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090f09"/></a>&nbsp;
+<a href="mailto:raleinnova@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090f09"/></a>&nbsp;
+<a href="tel:+918903541901"><img src="https://img.shields.io/badge/%2B91_8903541901-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=090f09"/></a>
 
 <br/><br/>
 
@@ -306,6 +310,6 @@ Paperless identity sharing via **NFC/QR tap-to-fill** forms. Secure, **offline-c
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073040,50:041824,100:060a14&height=120&section=footer&text=Thanks+for+visiting!+Let's+build+something+amazing&fontSize=15&fontColor=00d4ff&animation=twinkling&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f0a,50:090f09,100:090f09&height=120&section=footer&text=Thanks+for+visiting!+Let's+build+something+amazing&fontSize=15&fontColor=00ff87&animation=twinkling&fontAlignY=65"/>
 
 </div>
