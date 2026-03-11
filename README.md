@@ -11,7 +11,7 @@
 
 <!-- ░░░ GLITCH-STYLE TYPING ░░░ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2200&pause=800&color=FF8C00&center=true&vCenter=true&width=700&height=38&lines=%3E_+Architecting+the+future%2C+one+commit+at+a+time;%3E_+AI+%2B+Web+%2B+Design+%3D+My+entire+stack;%3E_+Next.js+%7C+MERN+%7C+Spring+Boot+%7C+FastAPI;%3E_+Building+inclusive+tech+for+everyone;%3E_+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2200&pause=800&color=FF8C00&center=true&vCenter=true&width=700&height=38&lines=%3E_+Architecting+the+future%2C+one+commit+at+a+time;%3E_+AI+%2B+Web+%2B+Design+%3D+My+entire+stack;%3E_+Next.js+%7C+MERN+%7C+Spring+Boot+%7C+FastAPI;%3E_+Building+inclusive+tech+for+everyone" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -71,11 +71,10 @@
     "Design     @  MAAC Institute"
   ],
   "currently": [
-    "⚡ Intern @ Virtusa",
-    "🔵 Intern @ Bluekode Technologies"
+    " Intern @ Virtusa",
+    " Intern @ Bluekode Technologies"
   ],
   "openTo"   : ["Freelance", "Collabs", "Full-time"],
-  "vibe"     : "lo-fi beats + 2AM deploys 🎧☕"
 }
 ```
 
@@ -144,37 +143,7 @@
 <hr style="border: 1px solid #ff8c0030;" />
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB ANALYTICS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28px" alt="Bar Chart"/>
-&nbsp;Metrics & Telemetry
-</h2>
-
-<br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ralein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&icon_color=ffaa00&text_color=c9d1d9&ring_color=ff8c00&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralein&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&text_color=c9d1d9&langs_count=8&count_private=true" alt="Top Languages Breakdown"/>
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ralein&bg_color=0d1117&color=ff8c00&line=ff6600&point=ffaa00&area=true&hide_border=true&area_color=ff8c0015&custom_title=Ralein's%20Contribution%20Graph" alt="Contribution Graph"/>
-
-<br/><br/>
-
-<!-- GitHub Trophies API is currently returning 503 (down): -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=Ralein&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/> -->
-
-</div>
-
-<br/>
-<hr style="border: 1px solid #ff8c0030;" />
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CONTRIBUTION SNAKE                       -->
@@ -229,7 +198,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=9999&color=ffcc80&center=true&vCenter=true&width=700&height=28&lines=I+dont+just+write+code+-+I+craft+experiences,+build+accessibility,+and+ship+ideas+into+reality." alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=9999&color=ffcc80&center=true&vCenter=true&width=700&height=28&lines=%22I%20dont%20just%20write%20code%20-%20I%20craft%20experiences%2C%20build%20accessibility%2C%20and%20ship%20ideas%20into%20reality.%22" alt="Quote"/>
 
 <br/><br/>
 
