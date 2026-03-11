@@ -113,9 +113,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/github-snake.svg" width="96%"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/github-snake-dark.svg?v=1"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/github-snake.svg?v=1"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/github-snake-dark.svg?v=1" width="96%"/>
 </picture>
 
 </div>
@@ -128,7 +128,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=9999&color=ffcc80&center=true&vCenter=true&width=700&height=28&lines=%22I%20dont%20just%20write%20code%20-%20I%20craft%20experiences%2C%20build%20accessibility%2C%20and%20ship%20ideas%20into%20reality.%22" alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=ffcc80&center=true&vCenter=true&width=700&height=32&lines=Veni,+Vidi,+Vici.;I+came,+I+saw,+I+coded." alt="Quote"/>
 
 <br/><br/>
 
