@@ -45,76 +45,32 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                           -->
+<!--                       3D METRICS                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="30px" alt="Waving Hand"/>
-&nbsp;Identity Payload
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" alt="Bar Chart"/>
+&nbsp;Commit Trajectory
 </h2>
-</div>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=Ralein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&icon_color=ffaa00&text_color=c9d1d9&ring_color=ff8c00&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralein&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&text_color=c9d1d9&langs_count=6" width="48%" alt="Top Languages"/>
 
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=9999&color=FF8C00&width=340&height=22&lines=%24+cat+~%2Fprofile.json" alt="cat profile.json"/>
+<br/><br/>
 
-```javascript
-const ralein = {
-  name      : "Ralein Nova",
-  location  : "Coimbatore, India 📍",
-  education : [
-    "M.Tech CS @ SKCET",
-    "Design @ MAAC Institute"
-  ],
-  currently : [
-    "⚡ Intern @ Virtusa",
-    "🔵 Intern @ Bluekode"
-  ],
-  openTo    : ["Freelance", "Collabs", "Full-time"]
-};
-```
+<!-- 3D ISOMETRIC CALENDAR -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ralein&bg_color=0d1117&color=ff8c00&line=ff6600&point=ffaa00&area=true&hide_border=true&area_color=ff8c0015" width="100%" alt="Activity Graph"/>
 
-</td>
-<td width="45%" valign="top" align="center">
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ralein&theme=tokyonight&hide_border=true&background=0d1117&ring=ff8c00&fire=ff6600&currStreakLabel=ff8c00&sideLabels=ffcc80&dates=664400&sideNums=ffffff&currStreakNum=ffffff&stroke=ff8c0030" width="100%" alt="GitHub Streak"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralein&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&text_color=c9d1d9&langs_count=6" width="100%" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-<hr style="border: 1px solid #ff8c0030;" />
-<br/>
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     3D GITHUB GLOBE                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="28px" alt="Globe"/>
-&nbsp;Global Presence
-</h2>
-
-<img align="center" src="https://github-readme-globe.vercel.app/api?username=Ralein&color=ff8c00&bgColor=000&size=500" alt="GitHub Globe">
-
 </div>
 
 <br/>
 <hr style="border: 1px solid #ff8c0030;" />
 <br/>
-
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CONTRIBUTION SNAKE                       -->
@@ -124,7 +80,7 @@ const ralein = {
 
 <h2>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28px" alt="Snake"/>
-&nbsp;Commit Activity Snake
+&nbsp;Activity Matrix
 </h2>
 
 <br/>
