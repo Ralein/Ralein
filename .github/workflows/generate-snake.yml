@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Metrics
 
 on:
   schedule:
@@ -28,12 +28,18 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3a7ce0
 
+      - name: Generate 3D Contrib Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          USERNAME: ${{ github.repository_owner }}
+
       - name: Push to output branch
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/
-          git commit -m "Generate Contribution Snake"
+          git add dist/ profile-3d-contrib/
+          git commit -m "Generate Contribution Snake and 3D City Graph"
           git push origin HEAD:output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
