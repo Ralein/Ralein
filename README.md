@@ -50,7 +50,7 @@
 
 <div align="center">
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" alt="Bar Chart"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="30px" alt="Waving Hand"/>
 &nbsp;Commit Trajectory
 </h2>
 
