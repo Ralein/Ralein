@@ -62,20 +62,20 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=9999&color=FF8C00&width=340&height=22&lines=%24+cat+~%2Fprofile.json" alt="cat profile.json"/>
 
-```json
-{
-  "name"     : "Ralein Nova",
-  "location" : "Coimbatore, India 📍",
-  "edu"      : [
-    "M.Tech CS  @  SKCET",
-    "Design     @  MAAC Institute"
+```javascript
+const ralein = {
+  name      : "Ralein Nova",
+  location  : "Coimbatore, India 📍",
+  education : [
+    "M.Tech CS @ SKCET",
+    "Design @ MAAC Institute"
   ],
-  "currently": [
-    " Intern @ Virtusa",
-    " Intern @ Bluekode Technologies"
+  currently : [
+    "⚡ Intern @ Virtusa",
+    "🔵 Intern @ Bluekode"
   ],
-  "openTo"   : ["Freelance", "Collabs", "Full-time"],
-}
+  openTo    : ["Freelance", "Collabs", "Full-time"]
+};
 ```
 
 </td>
@@ -94,9 +94,26 @@
 <br/>
 <hr style="border: 1px solid #ff8c0030;" />
 <br/>
+<br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     3D GITHUB GLOBE                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="28px" alt="Globe"/>
+&nbsp;Global Presence
+</h2>
+
+<img align="center" src="https://github-readme-globe.vercel.app/api?username=Ralein&color=ff8c00&bgColor=000&size=500" alt="GitHub Globe">
+
+</div>
+
+<br/>
+<hr style="border: 1px solid #ff8c0030;" />
+<br/>
 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
