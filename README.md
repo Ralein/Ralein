@@ -104,8 +104,8 @@
 <div align="center">
 
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" width="30px" alt="City"/>
-&nbsp;3D City Matrix
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="30px" alt="Matrix"/>
+ 3D City Matrix
 </h2>
 
 <br/>
