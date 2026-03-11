@@ -95,53 +95,7 @@
 <hr style="border: 1px solid #ff8c0030;" />
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28px" alt="Gear"/>
-&nbsp;System Architecture Node
-</h2>
-
-<br/>
-
-**`— Frontend Core —`**
-<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,vite&perline=10&theme=dark" alt="Frontend Stack"/></p>
-
-**`— Backend Services —`**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,python,fastapi,graphql&perline=10&theme=dark" alt="Backend Stack"/></p>
-
-**`— Data & Infrastructure —`**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,vercel,docker,aws&perline=10&theme=dark" alt="DevOps Stack"/></p>
-
-**`— Machine Learning & Design —`**
-<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,figma,ps,ai,blender,ae,git,github&perline=10&theme=dark" alt="ML Stack"/></p>
-
-<br/>
-
-**`— Advanced AI Ecosystem —`**
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="34" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" height="34" alt="Groq"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="34" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="34" alt="HuggingFace"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" height="34" alt="Ollama"/>
-<img src="https://img.shields.io/badge/YOLOv7-ff8c00?style=flat-square&logoColor=white" height="34" alt="YOLOv7"/>
-<img src="https://img.shields.io/badge/BiRefNet-ff6600?style=flat-square&logoColor=white" height="34" alt="BiRefNet"/>
-<img src="https://img.shields.io/badge/MobileSAM-ffaa00?style=flat-square&logoColor=black" height="34" alt="MobileSAM"/>
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" height="34" alt="FFmpeg"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="34" alt="Streamlit"/>
-</p>
-
-</div>
-
-<br/>
-<hr style="border: 1px solid #ff8c0030;" />
-<br/>
 
 
 
@@ -178,6 +132,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:241200,50:1a0e00,100:0d0a00&height=130&section=footer&text=End+of+Transmission.+Let's+Build!+🚀&fontSize=16&fontColor=ff8c00&animation=twinkling&fontAlignY=72" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:241200,50:1a0e00,100:0d0a00&height=130&section=footer&text=End+of+Transmission.+Let's+Build!+&fontSize=16&fontColor=ff8c00&animation=twinkling&fontAlignY=72" alt="Footer"/>
 
 </div>
