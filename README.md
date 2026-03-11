@@ -170,31 +170,7 @@
 <hr style="border: 1px solid #ff8c0030;" />
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       CONNECT                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28px" alt="Handshake"/>
-&nbsp;Establish Connection
-</h2>
-
-<br/>
-
-<a href="https://ralein.vercel.app/">
-  <img src="https://img.shields.io/badge/◈ Portfolio-ralein.vercel.app-ff8c00?style=for-the-badge&labelColor=0d0a00&logo=vercel&logoColor=ff8c00" alt="Portfolio URL"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/ralein-nova-r-l-30170b227/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0a00" alt="LinkedIn Profile"/>
-</a>&nbsp;
-<a href="mailto:raleinnova@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0a00" alt="Email Me"/>
-</a>&nbsp;
-<a href="tel:+918903541901">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0a00" alt="WhatsApp Contact"/>
-</a>
 
 <br/><br/>
 
