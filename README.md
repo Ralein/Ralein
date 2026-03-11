@@ -59,11 +59,6 @@
 
 <br/><br/>
 
-<!-- 3D ISOMETRIC CALENDAR -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ralein&bg_color=0d1117&color=ff8c00&line=ff6600&point=ffaa00&area=true&hide_border=true&area_color=ff8c0015" width="100%" alt="Activity Graph"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ralein&theme=tokyonight&hide_border=true&background=0d1117&ring=ff8c00&fire=ff6600&currStreakLabel=ff8c00&sideLabels=ffcc80&dates=664400&sideNums=ffffff&currStreakNum=ffffff&stroke=ff8c0030" width="100%" alt="GitHub Streak"/>
 
 </div>
