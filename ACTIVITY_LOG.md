@@ -1,0 +1,1 @@
+- `2026-04-22 15:11`: chore(assets): compress SVG graphics and optimize theme contrast
