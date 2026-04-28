@@ -4,3 +4,4 @@
 - `2026-04-25 14:11`: style(badges): align social badges and update live visitor counter
 - `2026-04-26 17:42`: docs(profile): optimize profile assets and update bio metadata
 - `2026-04-27 22:22`: chore(profile): refresh cyberpunk header theme tokens and gradients
+- `2026-04-28 20:24`: docs(projects): update showcase links and feature descriptions
