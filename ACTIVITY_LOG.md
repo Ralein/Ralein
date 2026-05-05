@@ -11,3 +11,4 @@
 - `2026-05-02 15:34`: docs(skills): update full-stack tech stack and certifications
 - `2026-05-03 19:48`: docs(profile): optimize profile assets and update bio metadata
 - `2026-05-04 21:44`: refactor(matrix): optimize 3D city block and snake contribution graphs
+- `2026-05-05 15:45`: docs(projects): update showcase links and feature descriptions
