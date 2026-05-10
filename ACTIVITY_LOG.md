@@ -16,3 +16,4 @@
 - `2026-05-07 14:52`: chore(assets): compress SVG graphics and optimize theme contrast
 - `2026-05-08 15:24`: refactor(matrix): optimize 3D city block and snake contribution graphs
 - `2026-05-09 18:39`: docs(skills): update full-stack tech stack and certifications
+- `2026-05-10 16:33`: style(badges): align social badges and update live visitor counter
