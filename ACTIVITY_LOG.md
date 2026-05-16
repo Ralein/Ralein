@@ -22,3 +22,4 @@
 - `2026-05-13 16:39`: chore(assets): compress SVG graphics and optimize theme contrast
 - `2026-05-14 22:24`: docs(skills): update full-stack tech stack and certifications
 - `2026-05-15 14:24`: docs(skills): update full-stack tech stack and certifications
+- `2026-05-16 20:27`: style(badges): align social badges and update live visitor counter
