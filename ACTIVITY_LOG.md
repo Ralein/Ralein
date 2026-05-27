@@ -33,3 +33,4 @@
 - `2026-05-24 16:50`: refactor(matrix): optimize 3D city block and snake contribution graphs
 - `2026-05-25 15:34`: docs(projects): update showcase links and feature descriptions
 - `2026-05-26 21:43`: chore(profile): refresh cyberpunk header theme tokens and gradients
+- `2026-05-27 14:53`: perf(metrics): enhance SVG rendering and badge caching strategy
