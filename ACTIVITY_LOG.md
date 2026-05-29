@@ -35,3 +35,4 @@
 - `2026-05-26 21:43`: chore(profile): refresh cyberpunk header theme tokens and gradients
 - `2026-05-27 14:53`: perf(metrics): enhance SVG rendering and badge caching strategy
 - `2026-05-28 22:58`: docs(skills): update full-stack tech stack and certifications
+- `2026-05-29 15:28`: docs(readme): polish section headers and cyberpunk layout grid
