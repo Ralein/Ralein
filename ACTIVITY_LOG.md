@@ -37,3 +37,4 @@
 - `2026-05-28 22:58`: docs(skills): update full-stack tech stack and certifications
 - `2026-05-29 15:28`: docs(readme): polish section headers and cyberpunk layout grid
 - `2026-05-30 21:10`: chore(assets): compress SVG graphics and optimize theme contrast
+- `2026-05-31 22:58`: chore(profile): refresh cyberpunk header theme tokens and gradients
