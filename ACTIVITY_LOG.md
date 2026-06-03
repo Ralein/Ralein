@@ -40,3 +40,4 @@
 - `2026-05-31 22:58`: chore(profile): refresh cyberpunk header theme tokens and gradients
 - `2026-06-01 15:50`: chore(profile): refresh cyberpunk header theme tokens and gradients
 - `2026-06-02 17:19`: docs(readme): polish section headers and cyberpunk layout grid
+- `2026-06-03 22:43`: docs(projects): update showcase links and feature descriptions
