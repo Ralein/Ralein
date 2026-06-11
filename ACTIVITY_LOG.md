@@ -48,3 +48,4 @@
 - `2026-06-08 16:18`: docs(stats): synchronize language statistics and commit metrics
 - `2026-06-09 22:20`: chore(profile): refresh cyberpunk header theme tokens and gradients
 - `2026-06-10 20:23`: style(badges): align social badges and update live visitor counter
+- `2026-06-11 18:35`: docs(skills): update full-stack tech stack and certifications
