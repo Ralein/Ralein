@@ -50,3 +50,4 @@
 - `2026-06-10 20:23`: style(badges): align social badges and update live visitor counter
 - `2026-06-11 18:35`: docs(skills): update full-stack tech stack and certifications
 - `2026-06-12 21:43`: perf(metrics): enhance SVG rendering and badge caching strategy
+- `2026-06-13 17:24`: docs(skills): update full-stack tech stack and certifications
