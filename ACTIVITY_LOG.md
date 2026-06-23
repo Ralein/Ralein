@@ -60,3 +60,4 @@
 - `2026-06-20 17:16`: refactor(matrix): optimize 3D city block and snake contribution graphs
 - `2026-06-21 19:37`: docs(stats): synchronize language statistics and commit metrics
 - `2026-06-22 14:53`: perf(metrics): enhance SVG rendering and badge caching strategy
+- `2026-06-23 14:35`: docs(skills): update full-stack tech stack and certifications
