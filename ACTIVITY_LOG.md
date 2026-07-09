@@ -76,3 +76,4 @@
 - `2026-07-06 14:57`: docs(profile): optimize profile assets and update bio metadata
 - `2026-07-07 14:47`: chore(profile): refresh cyberpunk header theme tokens and gradients
 - `2026-07-08 22:20`: chore(profile): refresh cyberpunk header theme tokens and gradients
+- `2026-07-09 15:21`: docs(projects): update showcase links and feature descriptions
