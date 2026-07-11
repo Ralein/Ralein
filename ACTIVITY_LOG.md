@@ -78,3 +78,4 @@
 - `2026-07-08 22:20`: chore(profile): refresh cyberpunk header theme tokens and gradients
 - `2026-07-09 15:21`: docs(projects): update showcase links and feature descriptions
 - `2026-07-10 15:53`: refactor(matrix): optimize 3D city block and snake contribution graphs
+- `2026-07-11 15:46`: docs(projects): update showcase links and feature descriptions
