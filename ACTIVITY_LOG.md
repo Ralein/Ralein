@@ -86,3 +86,4 @@
 - `2026-07-16 21:30`: perf(metrics): enhance SVG rendering and badge caching strategy
 - `2026-07-17 14:39`: docs(projects): update showcase links and feature descriptions
 - `2026-07-18 15:14`: style(badges): align social badges and update live visitor counter
+- `2026-07-19 22:26`: docs(skills): update full-stack tech stack and certifications
