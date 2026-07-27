@@ -94,3 +94,4 @@
 - `2026-07-24 18:17`: chore(profile): refresh cyberpunk header theme tokens and gradients
 - `2026-07-25 16:27`: docs(projects): update showcase links and feature descriptions
 - `2026-07-26 17:55`: style(badges): align social badges and update live visitor counter
+- `2026-07-27 18:42`: chore(assets): compress SVG graphics and optimize theme contrast
