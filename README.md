@@ -14,39 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2200&pause=800&color=FF8C00&center=true&vCenter=true&width=700&height=38&lines=%3E_+Architecting+the+future%2C+one+commit+at+a+time;%3E_+AI+%2B+Web+%2B+Design+%3D+My+entire+stack;%3E_+Next.js+%7C+MERN+%7C+Spring+Boot+%7C+FastAPI;%3E_+Building+inclusive+tech+for+everyone" alt="Typing SVG" />
 </a>
 
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     $ WHOAMI — HERO CARD                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<table width="100%">
-<tr>
-<td width="230" align="center" valign="top">
-
-<!-- Save your uploaded photo to this exact path in the repo: assets/avatar.png -->
-<img src="https://raw.githubusercontent.com/Ralein/Ralein/main/assets/avatar.png" width="200" style="border-radius:14px;border:1px solid #ff8c0050;" alt="Ralein Nova"/>
-
-</td>
-<td valign="top">
-
-<pre style="background:#0d0a00;color:#ffcc80;padding:14px;border-radius:8px;">
-<b style="color:#ff8c00;">$ whoami</b>
-&gt; Ralein Nova
-&gt; Fullstack Developer · UI/UX · AI Engineer
-&gt; Stack   : Next.js · MERN · Spring Boot · FastAPI
-&gt; Focus   : Building inclusive tech for everyone
-&gt; Status  : Open to work
-&gt; Site    : ralein.vercel.app
-</pre>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+<br/><br/>
 
 <!-- ░░░ SOCIAL BADGES ░░░ -->
 <a href="https://ralein.vercel.app/" target="_blank">
@@ -77,38 +45,6 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       TECH ARSENAL                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<h2>🧰&nbsp; Tech Arsenal</h2>
-
-<img src="https://img.shields.io/badge/Next.js-0d0a00?style=for-the-badge&logo=next.js&logoColor=ff8c00" alt="Next.js"/>
-<img src="https://img.shields.io/badge/React-0d0a00?style=for-the-badge&logo=react&logoColor=ff8c00" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-0d0a00?style=for-the-badge&logo=typescript&logoColor=ff8c00" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Node.js-0d0a00?style=for-the-badge&logo=nodedotjs&logoColor=ff8c00" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-0d0a00?style=for-the-badge&logo=express&logoColor=ff8c00" alt="Express"/>
-<img src="https://img.shields.io/badge/MongoDB-0d0a00?style=for-the-badge&logo=mongodb&logoColor=ff8c00" alt="MongoDB"/>
-<br/>
-<img src="https://img.shields.io/badge/Spring%20Boot-0d0a00?style=for-the-badge&logo=springboot&logoColor=ff8c00" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/FastAPI-0d0a00?style=for-the-badge&logo=fastapi&logoColor=ff8c00" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Python-0d0a00?style=for-the-badge&logo=python&logoColor=ff8c00" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-0d0a00?style=for-the-badge&logo=openjdk&logoColor=ff8c00" alt="Java"/>
-<img src="https://img.shields.io/badge/Flutter-0d0a00?style=for-the-badge&logo=flutter&logoColor=ff8c00" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Dart-0d0a00?style=for-the-badge&logo=dart&logoColor=ff8c00" alt="Dart"/>
-<br/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-0d0a00?style=for-the-badge&logo=tailwindcss&logoColor=ff8c00" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Figma-0d0a00?style=for-the-badge&logo=figma&logoColor=ff8c00" alt="Figma"/>
-<img src="https://img.shields.io/badge/Git-0d0a00?style=for-the-badge&logo=git&logoColor=ff8c00" alt="Git"/>
-<img src="https://img.shields.io/badge/Vercel-0d0a00?style=for-the-badge&logo=vercel&logoColor=ff8c00" alt="Vercel"/>
-
-</div>
-
-<br/>
-<hr style="border: 1px solid #ff8c0030;" />
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       3D METRICS                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -124,47 +60,6 @@
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Ralein&theme=tokyonight&hide_border=true&background=0d1117&ring=ff8c00&fire=ff6600&currStreakLabel=ff8c00&sideLabels=ffcc80&dates=664400&sideNums=ffffff&currStreakNum=ffffff&stroke=ff8c0030" width="100%" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-<hr style="border: 1px solid #ff8c0030;" />
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       TROPHY CASE                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<h2>🏆&nbsp; Trophy Case</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ralein&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-<hr style="border: 1px solid #ff8c0030;" />
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   DEPLOYED & RUNNING                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<h2>🚀&nbsp; Deployed &amp; Running</h2>
-<sub>Live cards, pulled straight from GitHub — click a card to open the repo</sub>
-
-<br/><br/>
-
-<a href="https://github.com/Ralein/Ravelion-ai-final"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=Ravelion-ai-final&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&icon_color=ffaa00&text_color=c9d1d9" width="32%" alt="Ravelion-ai-final"/></a>
-<a href="https://github.com/Ralein/Lexivo-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=Lexivo-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&icon_color=ffaa00&text_color=c9d1d9" width="32%" alt="Lexivo-ai"/></a>
-<a href="https://github.com/Ralein/Glint-ai-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=Glint-ai-agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&icon_color=ffaa00&text_color=c9d1d9" width="32%" alt="Glint-ai-agent"/></a>
-
-<br/>
-
-<a href="https://github.com/Ralein/norel-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=norel-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&icon_color=ffaa00&text_color=c9d1d9" width="32%" alt="norel-app"/></a>
-<a href="https://github.com/Ralein/Code-mentor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=Code-mentor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&icon_color=ffaa00&text_color=c9d1d9" width="32%" alt="Code-mentor"/></a>
-<a href="https://github.com/Ralein/portfolio-v2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ralein&repo=portfolio-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&icon_color=ffaa00&text_color=c9d1d9" width="32%" alt="portfolio-v2"/></a>
 
 </div>
 
