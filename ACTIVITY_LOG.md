@@ -103,3 +103,4 @@
 - `2026-08-04 16:44`: docs(skills): update full-stack tech stack and certifications
 - `2026-08-05 22:19`: docs(readme): polish section headers and cyberpunk layout grid
 - `2026-08-06 14:29`: docs(profile): optimize profile assets and update bio metadata
+- `2026-08-07 19:23`: style(badges): align social badges and update live visitor counter
