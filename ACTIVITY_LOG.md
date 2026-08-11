@@ -107,3 +107,4 @@
 - `2026-08-08 15:32`: refactor(matrix): optimize 3D city block and snake contribution graphs
 - `2026-08-09 16:25`: docs(readme): polish section headers and cyberpunk layout grid
 - `2026-08-10 20:11`: docs(skills): update full-stack tech stack and certifications
+- `2026-08-11 20:52`: style(badges): align social badges and update live visitor counter
