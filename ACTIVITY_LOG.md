@@ -114,3 +114,4 @@
 - `2026-08-15 17:24`: style(badges): align social badges and update live visitor counter
 - `2026-08-16 20:31`: perf(metrics): enhance SVG rendering and badge caching strategy
 - `2026-08-17 18:32`: chore(profile): refresh cyberpunk header theme tokens and gradients
+- `2026-08-18 20:53`: docs(skills): update full-stack tech stack and certifications
