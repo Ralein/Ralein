@@ -116,3 +116,4 @@
 - `2026-08-17 18:32`: chore(profile): refresh cyberpunk header theme tokens and gradients
 - `2026-08-18 20:53`: docs(skills): update full-stack tech stack and certifications
 - `2026-08-19 14:17`: docs(readme): polish section headers and cyberpunk layout grid
+- `2026-08-20 18:12`: docs(projects): update showcase links and feature descriptions
