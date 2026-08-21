@@ -117,3 +117,4 @@
 - `2026-08-18 20:53`: docs(skills): update full-stack tech stack and certifications
 - `2026-08-19 14:17`: docs(readme): polish section headers and cyberpunk layout grid
 - `2026-08-20 18:12`: docs(projects): update showcase links and feature descriptions
+- `2026-08-21 20:32`: docs(skills): update full-stack tech stack and certifications
