@@ -122,3 +122,4 @@
 - `2026-08-23 20:46`: chore(assets): compress SVG graphics and optimize theme contrast
 - `2026-08-24 14:55`: docs(profile): optimize profile assets and update bio metadata
 - `2026-08-25 22:44`: style(badges): align social badges and update live visitor counter
+- `2026-08-26 19:37`: docs(skills): update full-stack tech stack and certifications
