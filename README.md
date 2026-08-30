@@ -53,11 +53,6 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ralein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&icon_color=ffaa00&text_color=c9d1d9&ring_color=ff8c00&include_all_commits=true" width="48%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ralein&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&text_color=c9d1d9&langs_count=6" width="48%" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Ralein&theme=tokyonight&hide_border=true&background=0d1117&ring=ff8c00&fire=ff6600&currStreakLabel=ff8c00&sideLabels=ffcc80&dates=664400&sideNums=ffffff&currStreakNum=ffffff&stroke=ff8c0030&timezone=Asia/Kolkata&v=1" width="100%" alt="GitHub Streak"/>
-
 </div>
 
 <br/>
