@@ -25,9 +25,6 @@
 </a>&nbsp;
 <a href="mailto:raleinnova@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-raleinnova@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0a00" alt="Gmail"/>
-</a>&nbsp;
-<a href="tel:+918903541901">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0a00" alt="WhatsApp"/>
 </a>
 
 <br/><br/>
@@ -59,9 +56,13 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Ralein&theme=tokyonight&hide_border=true&background=0d1117&ring=ff8c00&fire=ff6600&currStreakLabel=ff8c00&sideLabels=ffcc80&dates=664400&sideNums=ffffff&currStreakNum=ffffff&stroke=ff8c0030&timezone=Asia/Kolkata" width="100%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Ralein&theme=tokyonight&hide_border=true&background=0d1117&ring=ff8c00&fire=ff6600&currStreakLabel=ff8c00&sideLabels=ffcc80&dates=664400&sideNums=ffffff&currStreakNum=ffffff&stroke=ff8c0030&timezone=Asia/Kolkata&v=1" width="100%" alt="GitHub Streak"/>
 
 </div>
+
+<br/>
+<hr style="border: 1px solid #ff8c0030;" />
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CONTRIBUTION SNAKE                       -->
