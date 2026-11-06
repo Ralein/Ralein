@@ -98,9 +98,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/profile-3d-contrib/profile-night-view.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/profile-3d-contrib/profile-green-animate.svg"/>
-  <img alt="3D City Block" src="https://raw.githubusercontent.com/Ralein/Ralein/output/profile-3d-contrib/profile-night-view.svg" width="96%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/profile-3d-contrib/profile-night-view.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ralein/Ralein/output/profile-3d-contrib/profile-green-animate.svg?v=2"/>
+  <img alt="3D City Block" src="https://raw.githubusercontent.com/Ralein/Ralein/output/profile-3d-contrib/profile-night-view.svg?v=2" width="96%"/>
 </picture>
 
 </div>
