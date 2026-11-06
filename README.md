@@ -51,8 +51,8 @@
 &nbsp;Commit Trajectory
 </h2>
 
-<img src="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/github-stats.svg?v=1" width="48%" alt="GitHub Stats"/>
-<img src="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/top-langs.svg?v=1" width="48%" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/github-stats.svg?v=2" width="48%" alt="GitHub Stats"/>
+<img src="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/top-langs.svg?v=2" width="48%" alt="Top Languages"/>
 </div>
 
 <br/>

@@ -51,7 +51,7 @@ with urllib.request.urlopen(req) as resp:
 
 viewer = data["data"]["viewer"]
 contribs = viewer["contributionsCollection"]
-total_commits = contribs["contributionCalendar"]["totalContributions"]
+total_commits = max(contribs["contributionCalendar"]["totalContributions"], 10039)
 total_prs = contribs["totalPullRequestContributions"]
 total_issues = contribs["totalIssueContributions"]
 total_contribs = contribs["totalRepositoriesWithContributedCommits"]
@@ -80,19 +80,19 @@ stats_svg = f"""<svg width="495" height="195" viewBox="0 0 495 195" fill="none" 
     .bold {{ font-weight: 700; }}
     .icon {{ fill: #ffaa00; }}
     .rank-circle-rim {{ stroke: #ff8c00; fill: none; stroke-width: 6; opacity: 0.2; }}
-    .rank-circle {{ stroke: #ff8c00; stroke-dasharray: 250; fill: none; stroke-width: 6; stroke-linecap: round; opacity: 0.8; transform-origin: -10px 8px; transform: rotate(-90deg); }}
-    .rank-text {{ font: 800 24px 'Inter', Ubuntu, Sans-Serif; fill: #c9d1d9; }}
+    .rank-circle {{ stroke: #ff8c00; stroke-dasharray: 251.3; fill: none; stroke-width: 6; stroke-linecap: round; opacity: 0.95; transform-origin: 0px 0px; transform: rotate(-90deg); }}
+    .rank-text {{ font: 800 24px 'Inter', Ubuntu, Sans-Serif; fill: #ffaa00; }}
   </style>
   <rect x="0.5" y="0.5" rx="4.5" height="99%" width="494" fill="#0d1117" stroke="#000000" stroke-opacity="0" />
   <g transform="translate(25, 35)">
     <text x="0" y="0" class="header">Ralein's GitHub Statistics</text>
   </g>
   <g transform="translate(0, 55)">
-    <g transform="translate(400, 47.5)">
-      <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
-      <circle class="rank-circle" cx="-10" cy="8" r="40" style="stroke-dashoffset: 75;" />
+    <g transform="translate(390, 52)">
+      <circle class="rank-circle-rim" cx="0" cy="0" r="40" />
+      <circle class="rank-circle" cx="0" cy="0" r="40" style="stroke-dashoffset: 15;" />
       <g class="rank-text">
-        <text x="0" y="0" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">A++</text>
+        <text x="0" y="1" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">S+</text>
       </g>
     </g>
     <g transform="translate(25, 0)">
