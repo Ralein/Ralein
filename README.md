@@ -51,8 +51,8 @@
 &nbsp;Commit Trajectory
 </h2>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ralein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&icon_color=ffaa00&text_color=c9d1d9&ring_color=ff8c00&include_all_commits=true&count_private=true&v=2" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ralein&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff8c00&text_color=c9d1d9&langs_count=6&v=2" width="48%" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/github-stats.svg?v=1" width="48%" alt="GitHub Stats"/>
+<img src="https://raw.githubusercontent.com/Ralein/Ralein/output/dist/top-langs.svg?v=1" width="48%" alt="Top Languages"/>
 </div>
 
 <br/>
