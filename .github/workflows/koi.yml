@@ -19,13 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
       - uses: yalongwastaken/git-koi@v1
         with:
           body: gold
           output-dir: koi
-          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
       - name: Commit the koi if it changed
         shell: bash
         run: |
@@ -38,5 +35,3 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit --quiet --message "koi: draw the day's koi"
           git push --quiet
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
