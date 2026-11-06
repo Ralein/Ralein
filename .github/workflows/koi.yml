@@ -23,6 +23,7 @@ jobs:
         with:
           body: gold
           output-dir: koi
+          token: ${{ secrets.GH_PAT }}
       - name: Commit the koi if it changed
         shell: bash
         run: |
