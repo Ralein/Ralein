@@ -1,0 +1,42 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff8c00; }
+    .lang-text { font: 600 13px 'Inter', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .lang-pct { font: 400 12px 'Inter', Ubuntu, Sans-Serif; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" height="99%" width="494" fill="#0d1117" stroke="#000000" stroke-opacity="0" />
+  <g transform="translate(25, 35)">
+    <text x="0" y="0" class="header">Most Used Languages</text>
+  </g>
+  <clipPath id="bar-clip">
+    <rect x="25" y="55" width="445" height="8" rx="4"/>
+  </clipPath>
+  <g clip-path="url(#bar-clip)">
+    <rect x="25" y="55" width="312.6" height="8" fill="#3178c6"/><rect x="337.6" y="55" width="45.4" height="8" fill="#00B4AB"/><rect x="383.0" y="55" width="24.9" height="8" fill="#3572A5"/><rect x="407.9" y="55" width="18.9" height="8" fill="#A97BFF"/><rect x="426.79999999999995" y="55" width="16.1" height="8" fill="#f1e05a"/><rect x="442.9" y="55" width="9.6" height="8" fill="#663399"/>
+  </g>
+  
+    <g transform="translate(25, 85)">
+      <circle cx="5" cy="5" r="5" fill="#3178c6"/>
+      <text x="18" y="9" class="lang-text">TypeScript <tspan class="lang-pct">(70.2%)</tspan></text>
+    </g>
+    <g transform="translate(25, 113)">
+      <circle cx="5" cy="5" r="5" fill="#00B4AB"/>
+      <text x="18" y="9" class="lang-text">Dart <tspan class="lang-pct">(10.2%)</tspan></text>
+    </g>
+    <g transform="translate(25, 141)">
+      <circle cx="5" cy="5" r="5" fill="#3572A5"/>
+      <text x="18" y="9" class="lang-text">Python <tspan class="lang-pct">(5.6%)</tspan></text>
+    </g>
+    <g transform="translate(245, 85)">
+      <circle cx="5" cy="5" r="5" fill="#A97BFF"/>
+      <text x="18" y="9" class="lang-text">Kotlin <tspan class="lang-pct">(4.3%)</tspan></text>
+    </g>
+    <g transform="translate(245, 113)">
+      <circle cx="5" cy="5" r="5" fill="#f1e05a"/>
+      <text x="18" y="9" class="lang-text">JavaScript <tspan class="lang-pct">(3.6%)</tspan></text>
+    </g>
+    <g transform="translate(245, 141)">
+      <circle cx="5" cy="5" r="5" fill="#663399"/>
+      <text x="18" y="9" class="lang-text">CSS <tspan class="lang-pct">(2.2%)</tspan></text>
+    </g>
+</svg>
